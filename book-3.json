@@ -4,454 +4,1558 @@
             {
                 "ref": 73,
                 "verses": [
-                    "Um salmo de Assaf. Deus é, em verdade, bom para com Israel, para os que são puros de coração.",
-                    "Quanto a mim, por pouco não tropeçaram meus pés, quase resvalaram meus passos.",
-                    "Pois invejei os dissolutos, quando vi quão bem estavam os pecadores.",
-                    "Não parecem sensíveis à morte e suas forças se mantêm vigorosas.",
-                    "Do esforço humano não participam, nem por aflições; como os demais são fustigados.",
-                    "Por isso cinge-os, como um colar, a altivez, e como uma veste os envolve a corrupção.",
-                    "Seus olhos se arregalam com desejos que ultrapassam os limites de seus corações.",
-                    "Zombam e planejam maldades, e com arrogância exaltam sua corrupção.",
-                    "Contra os céus voltam as palavras de suas bocas e pela terra se espalham o pronunciar de suas línguas.",
-                    "Para eles se volta o povo e bebe só amargura.",
-                    "Dizem: “Como não saberia o Eterno? Tem disto conhecimento o Altíssimo?”",
-                    "Eis que os ímpios em tranqüilidade acumulam suas riquezas,",
-                    "enquanto eu, em vão, mantive puro meu coração e limpas minhas mãos,",
-                    "pois provações sofri por todo o tempo e castigos recebi a cada dia.",
-                    "Se eu proclamasse tudo isto, traindo estaria a geração dos filhos Teus.",
-                    "Esforcei-me para compreender, mas sem esperança parecia ser meu intento",
-                    "até que entrei no santuário do Eterno, e percebi a que fim se encaminhavam os malévolos.",
-                    "Por caminhos escorregadios os fizeste marchar e no abismo os fizeste cair.",
-                    "Sua ruína foi abrupta, engolfados que foram por um terror incontrolável.",
-                    "Despreza a memória deles como um sonho esquecido ao despertar, ó Eterno!",
-                    "Meu coração estava amargurado, se compungia todo meu ser,",
-                    "pois eu, como um insensato, não conseguia compreender; estava diante de Ti como um ser embrutecido.",
-                    "Entretanto, estou sempre Contigo e minha destra sustentas.",
-                    "Tu me guias com Teu conselho e me recepcionarás em Tua glória.",
-                    "Quem mais, além de Ti, é por mim nos céus? Se estou Contigo, nada mais desejo na terra.",
-                    "Desfalecem meu corpo e meu coração, mas pela Rocha anseia minha alma, pois o Eterno é para sempre minha porção e minha herança.",
-                    "Perecerão os que de Ti se apartam; destruirás os que Te são infiéis.",
-                    "Quanto a mim, na proximidade do Eterno está a felicidade a que aspiro; fiz do Eterno Deus o meu refúgio para me dedicar a cantar louvores às Suas obras."
+                    {
+                        "ref": 1,
+                        "text": "Um salmo de Assaf. Deus é, em verdade, bom para com Israel, para os que são puros de coração."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Quanto a mim, por pouco não tropeçaram meus pés, quase resvalaram meus passos."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Pois invejei os dissolutos, quando vi quão bem estavam os pecadores."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Não parecem sensíveis à morte e suas forças se mantêm vigorosas."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Do esforço humano não participam, nem por aflições; como os demais são fustigados."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Por isso cinge-os, como um colar, a altivez, e como uma veste os envolve a corrupção."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Seus olhos se arregalam com desejos que ultrapassam os limites de seus corações."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Zombam e planejam maldades, e com arrogância exaltam sua corrupção."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Contra os céus voltam as palavras de suas bocas e pela terra se espalham o pronunciar de suas línguas."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Para eles se volta o povo e bebe só amargura."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Dizem: “Como não saberia o Eterno? Tem disto conhecimento o Altíssimo?”"
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Eis que os ímpios em tranqüilidade acumulam suas riquezas,"
+                    },
+                    {
+                        "ref": 13,
+                        "text": "enquanto eu, em vão, mantive puro meu coração e limpas minhas mãos,"
+                    },
+                    {
+                        "ref": 14,
+                        "text": "pois provações sofri por todo o tempo e castigos recebi a cada dia."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Se eu proclamasse tudo isto, traindo estaria a geração dos filhos Teus."
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Esforcei-me para compreender, mas sem esperança parecia ser meu intento"
+                    },
+                    {
+                        "ref": 17,
+                        "text": "até que entrei no santuário do Eterno, e percebi a que fim se encaminhavam os malévolos."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "Por caminhos escorregadios os fizeste marchar e no abismo os fizeste cair."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Sua ruína foi abrupta, engolfados que foram por um terror incontrolável."
+                    },
+                    {
+                        "ref": 20,
+                        "text": "Despreza a memória deles como um sonho esquecido ao despertar, ó Eterno!"
+                    },
+                    {
+                        "ref": 21,
+                        "text": "Meu coração estava amargurado, se compungia todo meu ser,"
+                    },
+                    {
+                        "ref": 22,
+                        "text": "pois eu, como um insensato, não conseguia compreender; estava diante de Ti como um ser embrutecido."
+                    },
+                    {
+                        "ref": 23,
+                        "text": "Entretanto, estou sempre Contigo e minha destra sustentas."
+                    },
+                    {
+                        "ref": 24,
+                        "text": "Tu me guias com Teu conselho e me recepcionarás em Tua glória."
+                    },
+                    {
+                        "ref": 25,
+                        "text": "Quem mais, além de Ti, é por mim nos céus? Se estou Contigo, nada mais desejo na terra."
+                    },
+                    {
+                        "ref": 26,
+                        "text": "Desfalecem meu corpo e meu coração, mas pela Rocha anseia minha alma, pois o Eterno é para sempre minha porção e minha herança."
+                    },
+                    {
+                        "ref": 27,
+                        "text": "Perecerão os que de Ti se apartam; destruirás os que Te são infiéis."
+                    },
+                    {
+                        "ref": 28,
+                        "text": "Quanto a mim, na proximidade do Eterno está a felicidade a que aspiro; fiz do Eterno Deus o meu refúgio para me dedicar a cantar louvores às Suas obras."
+                    }
                 ]
             },
             {
                 "ref": 74,
                 "verses": [
-                    "Um “Maskil” de Assaf. Ó Eterno, por que nos rejeitas para sempre? Por que se inflama Tua ira contra o rebanho de Tua pastagem?",
-                    "Recorda a comunidade que há muito fizeste Tua, a tribo que redimiste para ser Tua possessão, o monte Tsión que era Tua morada.",
-                    "Dirige Teus passos às ruínas irreparáveis, contra todo o mal perpetrado pelo inimigo no santuário.",
-                    "Teus opressores rugem nos locais de Tuas reuniões e como troféus ostentam seus sinais.",
-                    "Assemelham-se aos que empunham um machado contra a copa da árvores",
-                    "e juntam suas ferramentas de destruição para acabar com toda a floresta.",
-                    "Atearam fogo a Teu santuário, profanaram e destruíram o tabernáculo de Teu Nome.",
-                    "Em seus corações resolveram: “Vamos destruí-los a todos de uma vez.” E todas as congregações do Eterno incendiaram.",
-                    "Não há sinais que nos indiquem esperança; não há mais profetas e ninguém dentre nós pode prever até quando se estenderá esta calamidade.",
-                    "Até quando, ó Eterno, continuará o opressor com seu ultraje? Blasfemará, eternamente o inimigo contra o Teu Nome?",
-                    "Porque retrais Tua mão, Tua Destra? Retira-a de Teu seio e aniquila-os!",
-                    "Pois Tu, ó Eterno,és meu rei desde o princípio, realizando milagrosas salvações por toda a terra.",
-                    "Com Teu poder dividiste o mar, esmagaste sob as águas os monstros marinhos.",
-                    "Despedaçaste a cabeça do Leviatã e o serviste como alimento aos habitantes do deserto.",
-                    "Fizeste jorrar fontes e torrentes, e secar rios impetuosos.",
-                    "Teu é o dia e também a noite; o sol e a lua criaste.",
-                    "Os limites da terra estabeleceste; verão e inverno foram por Ti determinados.",
-                    "Lembra-Te em Teu poder que o inimigo Te ultrajou, ó Eterno, e que o povo infame contra Teu Nome blasfemou.",
-                    "Não permitas que seja entregue às feras a alma de Tua pomba (Israel). Não esqueças para sempre a vida de Teus desválidos.",
-                    "Recorda-Te da aliança, pois a corrupção nas trevas construiu sua morada.",
-                    "Que não continue envergonhado o abatido, para que, redimido, possa o oprimido louvar Teu nome.",
-                    "Levanta-Te, ó Eterno, e defende Tua causa; lembra-Te como diariamente Te ultrajam os infames.",
-                    "Não ignores o rugido dos opressores, o alvoroço dos que se erguem contra Ti, e destrói-os para sempre."
+                    {
+                        "ref": 1,
+                        "text": "Um “Maskil” de Assaf. Ó Eterno, por que nos rejeitas para sempre? Por que se inflama Tua ira contra o rebanho de Tua pastagem?"
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Recorda a comunidade que há muito fizeste Tua, a tribo que redimiste para ser Tua possessão, o monte Tsión que era Tua morada."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Dirige Teus passos às ruínas irreparáveis, contra todo o mal perpetrado pelo inimigo no santuário."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Teus opressores rugem nos locais de Tuas reuniões e como troféus ostentam seus sinais."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Assemelham-se aos que empunham um machado contra a copa da árvores"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "e juntam suas ferramentas de destruição para acabar com toda a floresta."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Atearam fogo a Teu santuário, profanaram e destruíram o tabernáculo de Teu Nome."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Em seus corações resolveram: “Vamos destruí-los a todos de uma vez.” E todas as congregações do Eterno incendiaram."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Não há sinais que nos indiquem esperança; não há mais profetas e ninguém dentre nós pode prever até quando se estenderá esta calamidade."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Até quando, ó Eterno, continuará o opressor com seu ultraje? Blasfemará, eternamente o inimigo contra o Teu Nome?"
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Porque retrais Tua mão, Tua Destra? Retira-a de Teu seio e aniquila-os!"
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Pois Tu, ó Eterno,és meu rei desde o princípio, realizando milagrosas salvações por toda a terra."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Com Teu poder dividiste o mar, esmagaste sob as águas os monstros marinhos."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Despedaçaste a cabeça do Leviatã e o serviste como alimento aos habitantes do deserto."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Fizeste jorrar fontes e torrentes, e secar rios impetuosos."
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Teu é o dia e também a noite; o sol e a lua criaste."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Os limites da terra estabeleceste; verão e inverno foram por Ti determinados."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "Lembra-Te em Teu poder que o inimigo Te ultrajou, ó Eterno, e que o povo infame contra Teu Nome blasfemou."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Não permitas que seja entregue às feras a alma de Tua pomba (Israel). Não esqueças para sempre a vida de Teus desválidos."
+                    },
+                    {
+                        "ref": 20,
+                        "text": "Recorda-Te da aliança, pois a corrupção nas trevas construiu sua morada."
+                    },
+                    {
+                        "ref": 21,
+                        "text": "Que não continue envergonhado o abatido, para que, redimido, possa o oprimido louvar Teu nome."
+                    },
+                    {
+                        "ref": 22,
+                        "text": "Levanta-Te, ó Eterno, e defende Tua causa; lembra-Te como diariamente Te ultrajam os infames."
+                    },
+                    {
+                        "ref": 23,
+                        "text": "Não ignores o rugido dos opressores, o alvoroço dos que se erguem contra Ti, e destrói-os para sempre."
+                    }
                 ]
             },
             {
                 "ref": 75,
                 "verses": [
-                    "Ao mestre do canto, “Al Tash’chet”, um salmo e cântico de Assaf.",
-                    "Nós te exaltamos, ó Eterno; graças a Ti rendemos e sentimos a proximidade de Tua Presença, que Teus feitos maravilhosos anunciam.",
-                    "“No tempo por Mim determinado, proclamarei eqüidade no julgamento.",
-                    "A terra e todos os seus habitantes vacilam e se parecem dissolver, mas Eu dou firmeza a seus sustentáculos.”",
-                    "Aos soberbos Eu Disse: “Não deveis agir com arrogância!”, e aos ímpios: “Não sejais orgulhosos!”",
-                    "Não ostentai altivez perante o Altíssimo nem falai com soberba,",
-                    "porque não é do Oriente ou do Ocidente, nem do deserto ao sul ou das montanhas do norte, que vem o êxito,",
-                    "mas só Deus é que é o Juiz, que a este rebaixa e àquele eleva.",
-                    "Pois segura o Eterno um cálice com vinho forte e espumante, do qual faz beber até o âmago a todos os iníquos da terra, para sua desgraça.",
-                    "Quanto a mim, anunciarei para sempre Seus feitos, e cantarei louvores ao Deus de Jacob.",
-                    "O orgulho dos perversos abaterei, porém exaltada será a honra dos justos."
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, “Al Tash’chet”, um salmo e cântico de Assaf."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Nós te exaltamos, ó Eterno; graças a Ti rendemos e sentimos a proximidade de Tua Presença, que Teus feitos maravilhosos anunciam."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "“No tempo por Mim determinado, proclamarei eqüidade no julgamento."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "A terra e todos os seus habitantes vacilam e se parecem dissolver, mas Eu dou firmeza a seus sustentáculos.”"
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Aos soberbos Eu Disse: “Não deveis agir com arrogância!”, e aos ímpios: “Não sejais orgulhosos!”"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Não ostentai altivez perante o Altíssimo nem falai com soberba,"
+                    },
+                    {
+                        "ref": 7,
+                        "text": "porque não é do Oriente ou do Ocidente, nem do deserto ao sul ou das montanhas do norte, que vem o êxito,"
+                    },
+                    {
+                        "ref": 8,
+                        "text": "mas só Deus é que é o Juiz, que a este rebaixa e àquele eleva."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Pois segura o Eterno um cálice com vinho forte e espumante, do qual faz beber até o âmago a todos os iníquos da terra, para sua desgraça."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Quanto a mim, anunciarei para sempre Seus feitos, e cantarei louvores ao Deus de Jacob."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "O orgulho dos perversos abaterei, porém exaltada será a honra dos justos."
+                    }
                 ]
             },
             {
                 "ref": 76,
                 "verses": [
-                    "Ao mestre do canto, sobre instrumentos de corda, um salmo e cântico de Assaf.",
-                    "Deus Se fez conhecer em Judá e grande é Seu Nome em Israel.",
-                    "Jerusalém se tornou Seu tabernáculo e Tsión Sua morada.",
-                    "Lá Ele destruiu as setas dos arcos, os escudos, espadas e todos os artefatos de guerra dos inimigos.",
-                    "Resplandecente e glorioso Te ergueste em Teu poder acima das montanhas de presas.",
-                    "Os valorosos foram despojados, se sentiram desfalecer, e até os mais bravos se sentiram imobilizados.",
-                    "Ante Teu furor, ó Deus de Jacob, ficaram imobilizados cavalos e cavaleiros.",
-                    "Pois Tu és temível; quem se postaria diante de Ti em Teu momento de ira?",
-                    "Dos céus proclamaste Tua sentença, e a terra toda tremeu e silenciou",
-                    "quando Se aprestou o Eterno para, com Seus julgamentos, redimir os humildes da terra.",
-                    "Até aqueles que contra Ti voltam sua ira, hão de louvar-Te, quando tiveres descarregado Tua fúria.",
-                    "Fazei votos ao Eterno, vosso Deus, e cumpri-os; todos que estão à Sua volta trarão oferendas ao Temível,",
-                    "que abate o orgulho dos príncipes e inspira temor aos reis da terra."
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, sobre instrumentos de corda, um salmo e cântico de Assaf."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Deus Se fez conhecer em Judá e grande é Seu Nome em Israel."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Jerusalém se tornou Seu tabernáculo e Tsión Sua morada."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Lá Ele destruiu as setas dos arcos, os escudos, espadas e todos os artefatos de guerra dos inimigos."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Resplandecente e glorioso Te ergueste em Teu poder acima das montanhas de presas."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Os valorosos foram despojados, se sentiram desfalecer, e até os mais bravos se sentiram imobilizados."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Ante Teu furor, ó Deus de Jacob, ficaram imobilizados cavalos e cavaleiros."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Pois Tu és temível; quem se postaria diante de Ti em Teu momento de ira?"
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Dos céus proclamaste Tua sentença, e a terra toda tremeu e silenciou"
+                    },
+                    {
+                        "ref": 10,
+                        "text": "quando Se aprestou o Eterno para, com Seus julgamentos, redimir os humildes da terra."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Até aqueles que contra Ti voltam sua ira, hão de louvar-Te, quando tiveres descarregado Tua fúria."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Fazei votos ao Eterno, vosso Deus, e cumpri-os; todos que estão à Sua volta trarão oferendas ao Temível,"
+                    },
+                    {
+                        "ref": 13,
+                        "text": "que abate o orgulho dos príncipes e inspira temor aos reis da terra."
+                    }
                 ]
             },
             {
                 "ref": 77,
                 "verses": [
-                    "Ao mestre do canto, com “Iedutun”, um salmo de Assaf.",
-                    "Minha voz, em clamor, levarei ao Eterno; sim, minha voz alçarei e Ele me ouvirá.",
-                    "No dia de minha aflição, ao Eterno busquei; por toda a noite, sem cansar, estendi minhas mãos em súplica, e consolo recusa minha alma.",
-                    "Recordo, ó Eterno, dos tempos felizes de outrora, e geme meu coração e desfalece meu espírito.",
-                    "Manténs abertos meus olhos e, em minha aflição, não consigo falar.",
-                    "Reflito sobre os dias que já se foram, sobre os anos passados.",
-                    "Lembro melodias de canções, medito em meu íntimo e meu espírito inquire:",
-                    "“Irá Eterno nos desprezar para sempre? Não voltará a Se reconciliar?",
-                    "Acaso esgotou-se Sua misericórdia para sempre? Porventura anulou Sua promessa às gerações vindouras?",
-                    "Terá o Eterno olvidado da compaixão? Terá Sua ira bloqueado Sua benevolência?”",
-                    "E me respondo: “É minha a culpa por ter o Eterno mudado a posição de Sua Destra!.”",
-                    "Lembro os feitos do Eterno, recordo os atos maravilhosos do passado.",
-                    "Medito sobre Tuas obras e relato o que fizeste.",
-                    "Ó Eterno, santo é o Teu caminho; quem, como Tu, pode ser tão poderoso?",
-                    "Tu és o Deus que opera maravilhas e a todos os povos anuncias Teu poder.",
-                    "Com Teu braço redimiste Teu povo, os filhos de Jacob e José.",
-                    "As águas Te perceberam, ó Deus; elas Te viram e tremeram. Até os abismos fremiram.",
-                    "As nuvens despejaram suas águas, os céus trovejaram, foram lançadas Tuas setas.",
-                    "Propagou-se o som de Teu trovão, relâmpagos iluminaram o mundo, abalou-se e estremeceu a terra.",
-                    "No mar abriste Teu caminho, Tua trilha em meio as águas caudalosas, sem que Teus passos fossem percebidos.",
-                    "E, triunfalmente, pela mão de Moisés e Aarão, conduziste como um rebanho Teu povo da escravidão para a liberdade."
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, com “Iedutun”, um salmo de Assaf."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Minha voz, em clamor, levarei ao Eterno; sim, minha voz alçarei e Ele me ouvirá."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "No dia de minha aflição, ao Eterno busquei; por toda a noite, sem cansar, estendi minhas mãos em súplica, e consolo recusa minha alma."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Recordo, ó Eterno, dos tempos felizes de outrora, e geme meu coração e desfalece meu espírito."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Manténs abertos meus olhos e, em minha aflição, não consigo falar."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Reflito sobre os dias que já se foram, sobre os anos passados."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Lembro melodias de canções, medito em meu íntimo e meu espírito inquire:"
+                    },
+                    {
+                        "ref": 8,
+                        "text": "“Irá Eterno nos desprezar para sempre? Não voltará a Se reconciliar?"
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Acaso esgotou-se Sua misericórdia para sempre? Porventura anulou Sua promessa às gerações vindouras?"
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Terá o Eterno olvidado da compaixão? Terá Sua ira bloqueado Sua benevolência?”"
+                    },
+                    {
+                        "ref": 11,
+                        "text": "E me respondo: “É minha a culpa por ter o Eterno mudado a posição de Sua Destra!.”"
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Lembro os feitos do Eterno, recordo os atos maravilhosos do passado."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Medito sobre Tuas obras e relato o que fizeste."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Ó Eterno, santo é o Teu caminho; quem, como Tu, pode ser tão poderoso?"
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Tu és o Deus que opera maravilhas e a todos os povos anuncias Teu poder."
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Com Teu braço redimiste Teu povo, os filhos de Jacob e José."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "As águas Te perceberam, ó Deus; elas Te viram e tremeram. Até os abismos fremiram."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "As nuvens despejaram suas águas, os céus trovejaram, foram lançadas Tuas setas."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Propagou-se o som de Teu trovão, relâmpagos iluminaram o mundo, abalou-se e estremeceu a terra."
+                    },
+                    {
+                        "ref": 20,
+                        "text": "No mar abriste Teu caminho, Tua trilha em meio as águas caudalosas, sem que Teus passos fossem percebidos."
+                    },
+                    {
+                        "ref": 21,
+                        "text": "E, triunfalmente, pela mão de Moisés e Aarão, conduziste como um rebanho Teu povo da escravidão para a liberdade."
+                    }
                 ]
             },
             {
                 "ref": 78,
                 "verses": [
-                    "Um “Maskil” de Assaf. Escuta, meu povo, a minha Torá; inclina teu ouvido às palavras que pronuncia minha boca.",
-                    "Contarei uma parábola e enunciarei enigmas de tempos que já passaram há muito.",
-                    "O que ouvimos e aprendemos, exposto por nossos pais,",
-                    "não ocultaremos a seus descendentes, até as mais longínquas gerações, relatando o louvor do Eterno e os atos maravilhosos que praticou em Seu poder.",
-                    "Um testemunho Ele estabeleceu para Jacob e uma Torá (Lei) para Israel, e ordenou que os transmitissem a seus filhos.",
-                    "Para que possam conhecê-los os componentes da última geração – para que os filhos que ainda não nasceram venham em seu tempo narrá-los a seus filhos.",
-                    "Assim saberão depositar suas esperanças no Eterno, não esquecerão os prodígios de Suas obras e saberão cumprir Seus mandamentos.",
-                    "Eles não se comportarão como seus pais, uma geração contumaz e rebelde, uma geração que não soube dedicar a Deus seu coração e cujo espírito não manteve fidelidade ao Eterno.",
-                    "Os filhos de Efraim, destros arqueiros, recuaram no decisivo dia da batalha,",
-                    "não guardaram o pacto com o Eterno e, sob Seus ensinamentos, se recusaram a andar,",
-                    "esquecendo Suas façanhas e as maravilhas que lhes mostrou.",
-                    "Diante de seus pais havia realizado prodígios nas terras do Egito, nos campos de Tsôan.",
-                    "Fendeu o mar e fê-los passar através dele, ergueu as águas, com elas formando muralhas.",
-                    "Conduziu-os com uma nuvem durante o dia e com uma coluna de fogo durante a noite.",
-                    "As rochas do deserto fendeu e dessedentou-os à satisfação.",
-                    "Fez com que do rochedo jorrasse água, abundante como a de um rio.",
-                    "Tornaram porém a pecar, rebelando-os contra o Altíssimo no deserto.",
-                    "Ousaram em seus corações submeter a testes o Eterno, pedindo a comida pela qual ansiavam,",
-                    "dizendo: “Poderá Ele prover uma mesa no deserto?",
-                    "De fato, feriu a rocha e dela fez jorrar água como um rio caudaloso. Entretanto, poderá prover pão e preparar carne para Seu povo?”",
-                    "Irou-Se o Eterno ao ouvi-los e um fogo acendeu-se contra Jacob, e Sua ira fez fluir contra Israel;",
-                    "porquanto Nele não creram e em Sua salvação não confiaram.",
-                    "Entretanto, deu às nuvens instruções e abriu as portas do céu,",
-                    "fazendo sobre eles chover o maná para comer, provendo-os com grãos celestes.",
-                    "Puderam comer o manjar dos céus; provisões em abundância Ele lhes enviou.",
-                    "Desencadeou no céu o vento do Oriente; com Seu poder fez soprar o vento do sul.",
-                    "Como se fora pó, fez sobre eles chover carne, e como areia dos mares, aves em quantidades intermináveis.",
-                    "Ao redor de suas moradas no meio do acampamento fê-las cair.",
-                    "Comeram, então, e muito se fartaram com o que Ele lhes trouxe, atendendo seu desejo.",
-                    "Ainda não se haviam saciado e comida havia ainda em suas bocas,",
-                    "quando contra eles se ergueu a ira do Eterno e causou a morte dos mais fortes entre eles, e aos escolhidos de Israel fez prostrar.",
-                    "Apesar disto, voltaram a pecar, descrendo em Suas maravilhas.",
-                    "Então Ele fez seus dias serem vãos e seus anos envoltos em terror.",
-                    "Somente quando já os fazia findar seus dias, O buscavam, se arrependiam e oravam ao Eterno.",
-                    "Recordavam então que o Eterno era sua Rocha, o Deus Altíssimo seu redentor.",
-                    "Mas tentavam seduzi-lo com suas palavras, Lhe mentiam com suas línguas.",
-                    "Não Lhe era dedicado seu coração, nem a Seu pacto eram fiéis.",
-                    "Mas Ele, o Misericordioso, perdoou a iniqüidade e não os destruiu; reteve muitas vezes Sua cólera, não acendendo contra eles toda Sua ira.",
-                    "Pois lembrou que eram apenas carne frágil, um sopro de vida que passa e acaba.",
-                    "Quantas vezes O provocaram no deserto e Lhe trouxeram dor e aflição!",
-                    "Vez por vez continuaram a pô-Lo à prova; do Santo de Israel exigiram sinais.",
-                    "Não se lembraram de Sua mão poderosa nem do dia em que os redimiu do atormentador,",
-                    "quando milagres realizou no Egito e Suas maravilhas praticou em Tsôan.",
-                    "Em como transformou em sangue os seus rios e fez suas torrentes de água não poderem ser bebidas;",
-                    "contra eles enviou bestas que devoravam e que os infestavam.",
-                    "Deu suas colheitas aos insetos, o fruto de seu trabalho ao gafanhoto;",
-                    "destruiu com granizo suas vinhas, e suas figueiras com a geada.",
-                    "Com granizo exterminou suas crias e com raios seus rebanhos;",
-                    "desfechou contra eles Sua cólera ardente, indignação e atribulações, uma legião de mortais mensageiros.",
-                    "Deu livre curso à Sua fúria; não poupou da morte sua alma, e seus corpos castigou com a peste.",
-                    "Abateu todos os primogênitos do Egito, as primícias das tendas de Chám.",
-                    "Conduziu então em jornada Seu povo, guiando-os através do deserto como se fossem um rebanho.",
-                    "Inspirou-lhes seguir para que não temessem, enquanto o mar cobria seus inimigos,",
-                    "e os trouxe à Sua santa terra, à montanha que Sua Destra conquistou.",
-                    "Expulsou ante eles vários povos, e acomodou as tribos de Israel em suas tendas, atribuindo a cada uma seu quinhão.",
-                    "Entretanto, novamente, se rebelaram contra o Altíssimo, e não cumpriram Seus preceitos.",
-                    "Afastaram-se de Seu caminho e foram rebeldes como seus pais; se deformaram como um arco empenado.",
-                    "Provocaram Sua ira com seus altares erigidos para idolatria, despertaram seu zelo com seus ídolos.",
-                    "Ante isto acendeu-se a ira do Eterno, e Ele rejeitou a Israel.",
-                    "Abandonou o tabernáculo de Shiló, a tenda que era Sua morada entre os homens.",
-                    "Permitiu que cativo se tornasse Seu poder – seus eleitos – e nas mãos de malévolos estivesse Sua glória.",
-                    "À espada entregou Sua nação, indignou-Se com o povo de Sua herança.",
-                    "O fogo consumiu Seus jovens, e Suas donzelas não tiveram cantos nupciais.",
-                    "Seus sacerdotes tombaram à espada, suas viúvas não entoaram lamentações.",
-                    "Então despertou o Eterno como de um sonho, como um guerreiro que o vinho impulsiona.",
-                    "Fez Seus inimigos baterem em retirada e sobre eles lançou desgraça eterna.",
-                    "Desprezou a tenda de José e não escolheu a tribo de Efraim.",
-                    "Escolheu, sim, a tribo de Judá, e o Monte Tsión que Ele tanto ama.",
-                    "E construiu Seu templo, elevado como os céus e firme como a terra, a que Ele assegurou a existência.",
-                    "Escolheu David, Seu servo, e o retirou de seu aprisco.",
-                    "Fez com que abandonasse as crias de seu rebanho e viesse pastorear a Jacob, Sua nação, a Israel, Sua possessão.",
-                    "Ele os governou com a retidão de seu coração, e com habilidade os passou a dirigir."
+                    {
+                        "ref": 1,
+                        "text": "Um “Maskil” de Assaf. Escuta, meu povo, a minha Torá; inclina teu ouvido às palavras que pronuncia minha boca."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Contarei uma parábola e enunciarei enigmas de tempos que já passaram há muito."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "O que ouvimos e aprendemos, exposto por nossos pais,"
+                    },
+                    {
+                        "ref": 4,
+                        "text": "não ocultaremos a seus descendentes, até as mais longínquas gerações, relatando o louvor do Eterno e os atos maravilhosos que praticou em Seu poder."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Um testemunho Ele estabeleceu para Jacob e uma Torá (Lei) para Israel, e ordenou que os transmitissem a seus filhos."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Para que possam conhecê-los os componentes da última geração – para que os filhos que ainda não nasceram venham em seu tempo narrá-los a seus filhos."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Assim saberão depositar suas esperanças no Eterno, não esquecerão os prodígios de Suas obras e saberão cumprir Seus mandamentos."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Eles não se comportarão como seus pais, uma geração contumaz e rebelde, uma geração que não soube dedicar a Deus seu coração e cujo espírito não manteve fidelidade ao Eterno."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Os filhos de Efraim, destros arqueiros, recuaram no decisivo dia da batalha,"
+                    },
+                    {
+                        "ref": 10,
+                        "text": "não guardaram o pacto com o Eterno e, sob Seus ensinamentos, se recusaram a andar,"
+                    },
+                    {
+                        "ref": 11,
+                        "text": "esquecendo Suas façanhas e as maravilhas que lhes mostrou."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Diante de seus pais havia realizado prodígios nas terras do Egito, nos campos de Tsôan."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Fendeu o mar e fê-los passar através dele, ergueu as águas, com elas formando muralhas."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Conduziu-os com uma nuvem durante o dia e com uma coluna de fogo durante a noite."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "As rochas do deserto fendeu e dessedentou-os à satisfação."
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Fez com que do rochedo jorrasse água, abundante como a de um rio."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Tornaram porém a pecar, rebelando-os contra o Altíssimo no deserto."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "Ousaram em seus corações submeter a testes o Eterno, pedindo a comida pela qual ansiavam,"
+                    },
+                    {
+                        "ref": 19,
+                        "text": "dizendo: “Poderá Ele prover uma mesa no deserto?"
+                    },
+                    {
+                        "ref": 20,
+                        "text": "De fato, feriu a rocha e dela fez jorrar água como um rio caudaloso. Entretanto, poderá prover pão e preparar carne para Seu povo?”"
+                    },
+                    {
+                        "ref": 21,
+                        "text": "Irou-Se o Eterno ao ouvi-los e um fogo acendeu-se contra Jacob, e Sua ira fez fluir contra Israel;"
+                    },
+                    {
+                        "ref": 22,
+                        "text": "porquanto Nele não creram e em Sua salvação não confiaram."
+                    },
+                    {
+                        "ref": 23,
+                        "text": "Entretanto, deu às nuvens instruções e abriu as portas do céu,"
+                    },
+                    {
+                        "ref": 24,
+                        "text": "fazendo sobre eles chover o maná para comer, provendo-os com grãos celestes."
+                    },
+                    {
+                        "ref": 25,
+                        "text": "Puderam comer o manjar dos céus; provisões em abundância Ele lhes enviou."
+                    },
+                    {
+                        "ref": 26,
+                        "text": "Desencadeou no céu o vento do Oriente; com Seu poder fez soprar o vento do sul."
+                    },
+                    {
+                        "ref": 27,
+                        "text": "Como se fora pó, fez sobre eles chover carne, e como areia dos mares, aves em quantidades intermináveis."
+                    },
+                    {
+                        "ref": 28,
+                        "text": "Ao redor de suas moradas no meio do acampamento fê-las cair."
+                    },
+                    {
+                        "ref": 29,
+                        "text": "Comeram, então, e muito se fartaram com o que Ele lhes trouxe, atendendo seu desejo."
+                    },
+                    {
+                        "ref": 30,
+                        "text": "Ainda não se haviam saciado e comida havia ainda em suas bocas,"
+                    },
+                    {
+                        "ref": 31,
+                        "text": "quando contra eles se ergueu a ira do Eterno e causou a morte dos mais fortes entre eles, e aos escolhidos de Israel fez prostrar."
+                    },
+                    {
+                        "ref": 32,
+                        "text": "Apesar disto, voltaram a pecar, descrendo em Suas maravilhas."
+                    },
+                    {
+                        "ref": 33,
+                        "text": "Então Ele fez seus dias serem vãos e seus anos envoltos em terror."
+                    },
+                    {
+                        "ref": 34,
+                        "text": "Somente quando já os fazia findar seus dias, O buscavam, se arrependiam e oravam ao Eterno."
+                    },
+                    {
+                        "ref": 35,
+                        "text": "Recordavam então que o Eterno era sua Rocha, o Deus Altíssimo seu redentor."
+                    },
+                    {
+                        "ref": 36,
+                        "text": "Mas tentavam seduzi-lo com suas palavras, Lhe mentiam com suas línguas."
+                    },
+                    {
+                        "ref": 37,
+                        "text": "Não Lhe era dedicado seu coração, nem a Seu pacto eram fiéis."
+                    },
+                    {
+                        "ref": 38,
+                        "text": "Mas Ele, o Misericordioso, perdoou a iniqüidade e não os destruiu; reteve muitas vezes Sua cólera, não acendendo contra eles toda Sua ira."
+                    },
+                    {
+                        "ref": 39,
+                        "text": "Pois lembrou que eram apenas carne frágil, um sopro de vida que passa e acaba."
+                    },
+                    {
+                        "ref": 40,
+                        "text": "Quantas vezes O provocaram no deserto e Lhe trouxeram dor e aflição!"
+                    },
+                    {
+                        "ref": 41,
+                        "text": "Vez por vez continuaram a pô-Lo à prova; do Santo de Israel exigiram sinais."
+                    },
+                    {
+                        "ref": 42,
+                        "text": "Não se lembraram de Sua mão poderosa nem do dia em que os redimiu do atormentador,"
+                    },
+                    {
+                        "ref": 43,
+                        "text": "quando milagres realizou no Egito e Suas maravilhas praticou em Tsôan."
+                    },
+                    {
+                        "ref": 44,
+                        "text": "Em como transformou em sangue os seus rios e fez suas torrentes de água não poderem ser bebidas;"
+                    },
+                    {
+                        "ref": 45,
+                        "text": "contra eles enviou bestas que devoravam e que os infestavam."
+                    },
+                    {
+                        "ref": 46,
+                        "text": "Deu suas colheitas aos insetos, o fruto de seu trabalho ao gafanhoto;"
+                    },
+                    {
+                        "ref": 47,
+                        "text": "destruiu com granizo suas vinhas, e suas figueiras com a geada."
+                    },
+                    {
+                        "ref": 48,
+                        "text": "Com granizo exterminou suas crias e com raios seus rebanhos;"
+                    },
+                    {
+                        "ref": 49,
+                        "text": "desfechou contra eles Sua cólera ardente, indignação e atribulações, uma legião de mortais mensageiros."
+                    },
+                    {
+                        "ref": 50,
+                        "text": "Deu livre curso à Sua fúria; não poupou da morte sua alma, e seus corpos castigou com a peste."
+                    },
+                    {
+                        "ref": 51,
+                        "text": "Abateu todos os primogênitos do Egito, as primícias das tendas de Chám."
+                    },
+                    {
+                        "ref": 52,
+                        "text": "Conduziu então em jornada Seu povo, guiando-os através do deserto como se fossem um rebanho."
+                    },
+                    {
+                        "ref": 53,
+                        "text": "Inspirou-lhes seguir para que não temessem, enquanto o mar cobria seus inimigos,"
+                    },
+                    {
+                        "ref": 54,
+                        "text": "e os trouxe à Sua santa terra, à montanha que Sua Destra conquistou."
+                    },
+                    {
+                        "ref": 55,
+                        "text": "Expulsou ante eles vários povos, e acomodou as tribos de Israel em suas tendas, atribuindo a cada uma seu quinhão."
+                    },
+                    {
+                        "ref": 56,
+                        "text": "Entretanto, novamente, se rebelaram contra o Altíssimo, e não cumpriram Seus preceitos."
+                    },
+                    {
+                        "ref": 57,
+                        "text": "Afastaram-se de Seu caminho e foram rebeldes como seus pais; se deformaram como um arco empenado."
+                    },
+                    {
+                        "ref": 58,
+                        "text": "Provocaram Sua ira com seus altares erigidos para idolatria, despertaram seu zelo com seus ídolos."
+                    },
+                    {
+                        "ref": 59,
+                        "text": "Ante isto acendeu-se a ira do Eterno, e Ele rejeitou a Israel."
+                    },
+                    {
+                        "ref": 60,
+                        "text": "Abandonou o tabernáculo de Shiló, a tenda que era Sua morada entre os homens."
+                    },
+                    {
+                        "ref": 61,
+                        "text": "Permitiu que cativo se tornasse Seu poder – seus eleitos – e nas mãos de malévolos estivesse Sua glória."
+                    },
+                    {
+                        "ref": 62,
+                        "text": "À espada entregou Sua nação, indignou-Se com o povo de Sua herança."
+                    },
+                    {
+                        "ref": 63,
+                        "text": "O fogo consumiu Seus jovens, e Suas donzelas não tiveram cantos nupciais."
+                    },
+                    {
+                        "ref": 64,
+                        "text": "Seus sacerdotes tombaram à espada, suas viúvas não entoaram lamentações."
+                    },
+                    {
+                        "ref": 65,
+                        "text": "Então despertou o Eterno como de um sonho, como um guerreiro que o vinho impulsiona."
+                    },
+                    {
+                        "ref": 66,
+                        "text": "Fez Seus inimigos baterem em retirada e sobre eles lançou desgraça eterna."
+                    },
+                    {
+                        "ref": 67,
+                        "text": "Desprezou a tenda de José e não escolheu a tribo de Efraim."
+                    },
+                    {
+                        "ref": 68,
+                        "text": "Escolheu, sim, a tribo de Judá, e o Monte Tsión que Ele tanto ama."
+                    },
+                    {
+                        "ref": 69,
+                        "text": "E construiu Seu templo, elevado como os céus e firme como a terra, a que Ele assegurou a existência."
+                    },
+                    {
+                        "ref": 70,
+                        "text": "Escolheu David, Seu servo, e o retirou de seu aprisco."
+                    },
+                    {
+                        "ref": 71,
+                        "text": "Fez com que abandonasse as crias de seu rebanho e viesse pastorear a Jacob, Sua nação, a Israel, Sua possessão."
+                    },
+                    {
+                        "ref": 72,
+                        "text": "Ele os governou com a retidão de seu coração, e com habilidade os passou a dirigir."
+                    }
                 ]
             },
             {
                 "ref": 79,
                 "verses": [
-                    "Um salmo de Assaf. Ó Deus, os povos invadiram Tua possessão, profanaram o Teu sagrado santuário, converteram Jerusalém em montes de escombros.",
-                    "Deixaram os cadáveres dos Teus servos para se tornarem alimento para as aves de rapina, e a carne dos Teus devotos para as feras da terra.",
-                    "Seu sangue derramaram como água por toda Jerusalém e nem sequer havia quem os pudesse enterrar.",
-                    "Nos tornamos objetos de escárnio para nossos vizinhos, zombaria e desprezo para os que nos rodeiam.",
-                    "Até quando, Eterno, ficarás irado? Será eterna Tua cólera? Até quando Teu zelo queimará como fogo?",
-                    "Derrama Tua ira sobre os povos que não Te reconhecem e sobre os reinos que não invocam o Teu Nome.",
-                    "Porque destruíram Jacob e assolaram a sua morada.",
-                    "Não Te recordes contra nós das iniqüidades do passado; apressa-Te em proporcionar-nos a Tua misericórdia, pois estamos muito enfraquecidos.",
-                    "Socorre-nos, ó Deus da nossa salvação, pela glória do Teu Nome! Salva-nos e expia os nossos pecados pelo amor do Teu Nome!",
-                    "Para que não indaguem as nações: “Onde está o seu Deus?” Que vejam as nações diante de nossos olhos a vingança do sangue derramado dos Teus servos.",
-                    "Que Te alcance o gemido do encarcerado, e pela grandeza do Teu poder salva-o da morte.",
-                    "Retribui a nossos vizinhos sete vezes mais desgraças que aquelas com que Te desonraram, ó Eterno!",
-                    "Então, nós, Teu povo, o rebanho de Teu campo, louvar-Te-emos eternamente, e de geração em geração cantaremos Tua glória."
+                    {
+                        "ref": 1,
+                        "text": "Um salmo de Assaf. Ó Deus, os povos invadiram Tua possessão, profanaram o Teu sagrado santuário, converteram Jerusalém em montes de escombros."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Deixaram os cadáveres dos Teus servos para se tornarem alimento para as aves de rapina, e a carne dos Teus devotos para as feras da terra."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Seu sangue derramaram como água por toda Jerusalém e nem sequer havia quem os pudesse enterrar."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Nos tornamos objetos de escárnio para nossos vizinhos, zombaria e desprezo para os que nos rodeiam."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Até quando, Eterno, ficarás irado? Será eterna Tua cólera? Até quando Teu zelo queimará como fogo?"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Derrama Tua ira sobre os povos que não Te reconhecem e sobre os reinos que não invocam o Teu Nome."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Porque destruíram Jacob e assolaram a sua morada."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Não Te recordes contra nós das iniqüidades do passado; apressa-Te em proporcionar-nos a Tua misericórdia, pois estamos muito enfraquecidos."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Socorre-nos, ó Deus da nossa salvação, pela glória do Teu Nome! Salva-nos e expia os nossos pecados pelo amor do Teu Nome!"
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Para que não indaguem as nações: “Onde está o seu Deus?” Que vejam as nações diante de nossos olhos a vingança do sangue derramado dos Teus servos."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Que Te alcance o gemido do encarcerado, e pela grandeza do Teu poder salva-o da morte."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Retribui a nossos vizinhos sete vezes mais desgraças que aquelas com que Te desonraram, ó Eterno!"
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Então, nós, Teu povo, o rebanho de Teu campo, louvar-Te-emos eternamente, e de geração em geração cantaremos Tua glória."
+                    }
                 ]
             },
             {
                 "ref": 80,
                 "verses": [
-                    "Ao mestre do canto, com “Shoshanim”, “Edut”, um salmo de Assaf.",
-                    "Dá ouvidos, ó Pastor de Israel, que conduzes José como a um rebanho; revela-Te ante nós, ó Tu, que habitas entre os querubins!",
-                    "Apresenta-Te ante Efraim, Benjamim e Menashê, desperta Teu poder e vem salvar-nos.",
-                    "Restaura-nos, ó Deus, e faze sobre nós resplandecer Tua face, e então seremos salvos.",
-                    "Eterno, Deus dos Exércitos, até quando ignorarás as preces do Teu povo?",
-                    "Deste-lhe lágrimas por pão e os fizeste beber copioso pranto.",
-                    "Fizeste-nos lutar com nossos vizinhos, e nossos inimigos zombam de nós.",
-                    "Restaura-nos, ó Deus dos Exércitos! Faze sobre nós resplandecer Tua face, e então seremos salvos.",
-                    "Uma vinha trouxeste do Egito, e expulsaste povos para plantá-la.",
-                    "Lhe preparaste terreno, e ela fincou raízes e encheu a terra.",
-                    "Sua sombra encobriu montanhas, e seus galhos se tornaram cedros vigorosos.",
-                    "Até o mar estendeu seus ramos, e até o rio seus brotos.",
-                    "Por que destruíste suas cercas e deste modo a despojam todos os transeuntes?",
-                    "Devasta-a o javali da floresta, devoram-na todos que rastejam pelo campo.",
-                    "Ó Eterno dos Exércitos, rogamos que retornes! Dos céus, observa o que se passa e tem consideração por esta vinha,",
-                    "pela cepa plantada por Tua mão, pelo broto que para Ti fortaleceste.",
-                    "Ela está queimada pelo fogo e cortada; ante Tua repreensão ela perece.",
-                    "Concede Tua ajuda àquele que está à Tua Destra, ao filho do homem que para Ti fortaleceste.",
-                    "Nós não nos apartaremos de Ti; preserva pois nossa vida, para que Teu Nome possamos invocar.",
-                    "Restaura-nos, ó Eterno, Deus dos Exércitos, e faze sobre nós resplandecer Tua face, e então seremos salvos!"
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, com “Shoshanim”, “Edut”, um salmo de Assaf."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Dá ouvidos, ó Pastor de Israel, que conduzes José como a um rebanho; revela-Te ante nós, ó Tu, que habitas entre os querubins!"
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Apresenta-Te ante Efraim, Benjamim e Menashê, desperta Teu poder e vem salvar-nos."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Restaura-nos, ó Deus, e faze sobre nós resplandecer Tua face, e então seremos salvos."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Eterno, Deus dos Exércitos, até quando ignorarás as preces do Teu povo?"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Deste-lhe lágrimas por pão e os fizeste beber copioso pranto."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Fizeste-nos lutar com nossos vizinhos, e nossos inimigos zombam de nós."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Restaura-nos, ó Deus dos Exércitos! Faze sobre nós resplandecer Tua face, e então seremos salvos."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Uma vinha trouxeste do Egito, e expulsaste povos para plantá-la."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Lhe preparaste terreno, e ela fincou raízes e encheu a terra."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Sua sombra encobriu montanhas, e seus galhos se tornaram cedros vigorosos."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Até o mar estendeu seus ramos, e até o rio seus brotos."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Por que destruíste suas cercas e deste modo a despojam todos os transeuntes?"
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Devasta-a o javali da floresta, devoram-na todos que rastejam pelo campo."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Ó Eterno dos Exércitos, rogamos que retornes! Dos céus, observa o que se passa e tem consideração por esta vinha,"
+                    },
+                    {
+                        "ref": 16,
+                        "text": "pela cepa plantada por Tua mão, pelo broto que para Ti fortaleceste."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Ela está queimada pelo fogo e cortada; ante Tua repreensão ela perece."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "Concede Tua ajuda àquele que está à Tua Destra, ao filho do homem que para Ti fortaleceste."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Nós não nos apartaremos de Ti; preserva pois nossa vida, para que Teu Nome possamos invocar."
+                    },
+                    {
+                        "ref": 20,
+                        "text": "Restaura-nos, ó Eterno, Deus dos Exércitos, e faze sobre nós resplandecer Tua face, e então seremos salvos!"
+                    }
                 ]
             },
             {
                 "ref": 81,
                 "verses": [
-                    "Ao mestre do canto, sobre “Guitit”, de Assaf.",
-                    "Erguei canções de júbilo a Deus, que é a nossa fortaleza; fazei soar alegres vozes ao Deus de Jacob.",
-                    "Entoai um salmo e fazei ressoar o pandeiro, a agradável harpa e o saltério.",
-                    "Soprai o “Shofar” na lua nova, no tempo fixado como dia da nossa festa.",
-                    "Pois este é um estatuto para Israel, um dia de juízo para o Deus de Jacob.",
-                    "Ele o estabeleceu para José como testemunho, quando este saiu para governar na terra do Egito, onde ouviu uma língua que não conhecia.",
-                    "Deus disse: “Livrei seu ombro da carga, e do caldeirão da servidão retirei suas mãos.",
-                    "Na angústia clamaste e Eu te livrei; com voz de trovão te respondi e provei-te junto às águas de Merivá.",
-                    "Ouve, povo Meu, Eu te advertirei, ó Israel, se Me escutares!",
-                    "Não haverá deuses estranhos em teu meio nem adoração a ídolos.",
-                    "Eu sou o Eterno, teu Deus, que te fez subir da terra do Egito; abre bem a tua boca, e te satisfarei.",
-                    "Mas o Meu povo não escutou a Minha voz, e Israel não Me quis.",
-                    "Assim, deixei-os seguir segundo a obstinação dos seus corações, para que atendessem seus próprios conselhos.",
-                    "Ah, se Me escutasse o Meu povo, se Israel trilhasse Meus caminhos!",
-                    "Num instante Eu abateria os seus inimigos, e contra os seus adversários alçaria Minha mão.”",
-                    "Aos inimigos de Israel que odeiam o Eterno mas não o declaram abertamente, seu castigo será eterno,",
-                    "enquanto a Israel Ele nutrirá com o melhor dos alimentos, e com o mel que emana da rocha o saciará."
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, sobre “Guitit”, de Assaf."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Erguei canções de júbilo a Deus, que é a nossa fortaleza; fazei soar alegres vozes ao Deus de Jacob."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Entoai um salmo e fazei ressoar o pandeiro, a agradável harpa e o saltério."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Soprai o “Shofar” na lua nova, no tempo fixado como dia da nossa festa."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Pois este é um estatuto para Israel, um dia de juízo para o Deus de Jacob."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Ele o estabeleceu para José como testemunho, quando este saiu para governar na terra do Egito, onde ouviu uma língua que não conhecia."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Deus disse: “Livrei seu ombro da carga, e do caldeirão da servidão retirei suas mãos."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Na angústia clamaste e Eu te livrei; com voz de trovão te respondi e provei-te junto às águas de Merivá."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Ouve, povo Meu, Eu te advertirei, ó Israel, se Me escutares!"
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Não haverá deuses estranhos em teu meio nem adoração a ídolos."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Eu sou o Eterno, teu Deus, que te fez subir da terra do Egito; abre bem a tua boca, e te satisfarei."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Mas o Meu povo não escutou a Minha voz, e Israel não Me quis."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Assim, deixei-os seguir segundo a obstinação dos seus corações, para que atendessem seus próprios conselhos."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Ah, se Me escutasse o Meu povo, se Israel trilhasse Meus caminhos!"
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Num instante Eu abateria os seus inimigos, e contra os seus adversários alçaria Minha mão.”"
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Aos inimigos de Israel que odeiam o Eterno mas não o declaram abertamente, seu castigo será eterno,"
+                    },
+                    {
+                        "ref": 17,
+                        "text": "enquanto a Israel Ele nutrirá com o melhor dos alimentos, e com o mel que emana da rocha o saciará."
+                    }
                 ]
             },
             {
                 "ref": 82,
                 "verses": [
-                    "Um salmo de Assáf. O Eterno está presente na assembléia Divina onde se profere a justiça; Ele, entre os juízes, promulga Sua sentença.",
-                    "Vós, porém, ó juízes, até quando sentenciareis perversamente, favorecendo os malévolos?",
-                    "Fazei justiça ao desfavorecido e ao órfão; procedei corretamente para com o aflito e o desamparado.",
-                    "Libertai o oprimido e o indigente; salvai-os das mãos dos ímpios.",
-                    "Eles, os juízes, porém, nada sabem e nada querem compreender; vagueiam pelas trevas da ignorância e da insensibilidade; abalam assim os fundamentos que sustentam a terra.",
-                    "Eu disse: “Vós, ó juízes, sois como os anjos; todos vós sois filhos do Altíssimo!”",
-                    "Porém, como todo ser humano, também haveis de morrer; e como qualquer príncipe haveis de sucumbir.",
-                    "Levanta-Te, ó Eterno, e julga Tua terra, pois a Ti pertencem todas as nações!"
+                    {
+                        "ref": 1,
+                        "text": "Um salmo de Assáf. O Eterno está presente na assembléia Divina onde se profere a justiça; Ele, entre os juízes, promulga Sua sentença."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Vós, porém, ó juízes, até quando sentenciareis perversamente, favorecendo os malévolos?"
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Fazei justiça ao desfavorecido e ao órfão; procedei corretamente para com o aflito e o desamparado."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Libertai o oprimido e o indigente; salvai-os das mãos dos ímpios."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Eles, os juízes, porém, nada sabem e nada querem compreender; vagueiam pelas trevas da ignorância e da insensibilidade; abalam assim os fundamentos que sustentam a terra."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Eu disse: “Vós, ó juízes, sois como os anjos; todos vós sois filhos do Altíssimo!”"
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Porém, como todo ser humano, também haveis de morrer; e como qualquer príncipe haveis de sucumbir."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Levanta-Te, ó Eterno, e julga Tua terra, pois a Ti pertencem todas as nações!"
+                    }
                 ]
             },
             {
                 "ref": 83,
                 "verses": [
-                    "Um cântico e salmo de Assaf.",
-                    "Ó Deus, não Te mantenhas em silêncio; não ajas como um surdo e não Te cales, ó Deus!",
-                    "Pois eis que rugem Teus inimigos, e os que Te odeiam levantaram suas cabeças.",
-                    "Contra Teu povo tramam maldades e conspiram contra Teus protegidos.",
-                    "Eles dizem: “Vamos destruí-los para que não sejam uma nação e não mais haja lembrança do nome de Israel.”",
-                    "Todos juntos conspiram contra Ti e fazem um pacto.",
-                    "As tendas de Edom e os Ismaelitas, Moab e os Hagaritas;",
-                    "Gueval, Amon e Amalec, a Filistéia e os habitantes de Tiro.",
-                    "Até a Assíria a eles se associou, e se tornou o braço forte dos filhos de Lot.",
-                    "Trata-os como a Midiã, como a Sisra e como a Iabin no rio Kishon;",
-                    "eles foram aniquilados em En-Dor, tornando-se adubo para a terra.",
-                    "Faze aos seus nobres como a Orev e Zeev, e a todos os seus príncipes como a Zévach e Tsalmuná,",
-                    "que disseram: “Apoderemo-nos da morada de Deus.”",
-                    "Meu Deus! Faze com que sejam como o pó no redemoinho e como a palha ao vento.",
-                    "Como o fogo que consome a floresta e como a chama que incendeia montanhas;",
-                    "persegue-os com Tua tempestade e atemoriza-os com Tua tormenta.",
-                    "Cobre suas faces de vergonha para que busquem o Teu Nome, ó Eterno.",
-                    "Que sejam humilhados e atemorizados para sempre, e assim serão abatidos e perecerão.",
-                    "Saberão, então, que Tu, cujo Nome é Eterno, és único, e que Tu, ó Altíssimo, és o soberano de toda a terra."
+                    {
+                        "ref": 1,
+                        "text": "Um cântico e salmo de Assaf."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Ó Deus, não Te mantenhas em silêncio; não ajas como um surdo e não Te cales, ó Deus!"
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Pois eis que rugem Teus inimigos, e os que Te odeiam levantaram suas cabeças."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Contra Teu povo tramam maldades e conspiram contra Teus protegidos."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Eles dizem: “Vamos destruí-los para que não sejam uma nação e não mais haja lembrança do nome de Israel.”"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Todos juntos conspiram contra Ti e fazem um pacto."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "As tendas de Edom e os Ismaelitas, Moab e os Hagaritas;"
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Gueval, Amon e Amalec, a Filistéia e os habitantes de Tiro."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Até a Assíria a eles se associou, e se tornou o braço forte dos filhos de Lot."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Trata-os como a Midiã, como a Sisra e como a Iabin no rio Kishon;"
+                    },
+                    {
+                        "ref": 11,
+                        "text": "eles foram aniquilados em En-Dor, tornando-se adubo para a terra."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Faze aos seus nobres como a Orev e Zeev, e a todos os seus príncipes como a Zévach e Tsalmuná,"
+                    },
+                    {
+                        "ref": 13,
+                        "text": "que disseram: “Apoderemo-nos da morada de Deus.”"
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Meu Deus! Faze com que sejam como o pó no redemoinho e como a palha ao vento."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Como o fogo que consome a floresta e como a chama que incendeia montanhas;"
+                    },
+                    {
+                        "ref": 16,
+                        "text": "persegue-os com Tua tempestade e atemoriza-os com Tua tormenta."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Cobre suas faces de vergonha para que busquem o Teu Nome, ó Eterno."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "Que sejam humilhados e atemorizados para sempre, e assim serão abatidos e perecerão."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Saberão, então, que Tu, cujo Nome é Eterno, és único, e que Tu, ó Altíssimo, és o soberano de toda a terra."
+                    }
                 ]
             },
             {
                 "ref": 84,
                 "verses": [
-                    "Ao mestre do canto, sobre “Guitit”, um salmo dos filhos de Côrach.",
-                    "Quão amadas são Tuas moradas, ó Eterno dos Exércitos!",
-                    "Anseia e suspira minha alma pelos átrios do Eterno; meu coração e todo meu ser enaltecerão o Deus vivo.",
-                    "Até o pássaro encontrou uma casa, e a ave livre um ninho para si, onde coloca seus filhotes, junto aos Teus altares, ó Eterno dos Exércitos, meu Rei e meu Deus.",
-                    "Bem-aventurados os que vivem em Tua casa, pois eles Te louvarão continuamente.",
-                    "Bem-aventurados os homens que têm sua força em Ti e em cujos corações estão os Teus caminhos.",
-                    "Atravessando o vale árido transformam-no numa fonte que jorra, como se uma chuva o tivesse coberto de bênçãos.",
-                    "Eles se fortalecerão continuamente e apresentar-se-ão perante Deus em Tsión.",
-                    "Ó Eterno, Deus dos Exércitos, ouve minha prece; escuta-me, ó Deus de Jacob!",
-                    "Ó Deus, que és nosso protetor, faze revelar-se a face do Teu ungido.",
-                    "Pois é melhor um dia nos Teus átrios do que mil fora deles; prefiro sempre estar na casa do meu Deus do que morar nas tendas dos ímpios.",
-                    "Sol e escudo é o Eterno; graça e glória Ele concede e não nega qualquer bem aos que trilham o caminho da retidão.",
-                    "Ó Eterno dos Exércitos, bem-aventurado é o homem que apenas em Ti confia!"
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, sobre “Guitit”, um salmo dos filhos de Côrach."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Quão amadas são Tuas moradas, ó Eterno dos Exércitos!"
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Anseia e suspira minha alma pelos átrios do Eterno; meu coração e todo meu ser enaltecerão o Deus vivo."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Até o pássaro encontrou uma casa, e a ave livre um ninho para si, onde coloca seus filhotes, junto aos Teus altares, ó Eterno dos Exércitos, meu Rei e meu Deus."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Bem-aventurados os que vivem em Tua casa, pois eles Te louvarão continuamente."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Bem-aventurados os homens que têm sua força em Ti e em cujos corações estão os Teus caminhos."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Atravessando o vale árido transformam-no numa fonte que jorra, como se uma chuva o tivesse coberto de bênçãos."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Eles se fortalecerão continuamente e apresentar-se-ão perante Deus em Tsión."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Ó Eterno, Deus dos Exércitos, ouve minha prece; escuta-me, ó Deus de Jacob!"
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Ó Deus, que és nosso protetor, faze revelar-se a face do Teu ungido."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Pois é melhor um dia nos Teus átrios do que mil fora deles; prefiro sempre estar na casa do meu Deus do que morar nas tendas dos ímpios."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Sol e escudo é o Eterno; graça e glória Ele concede e não nega qualquer bem aos que trilham o caminho da retidão."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Ó Eterno dos Exércitos, bem-aventurado é o homem que apenas em Ti confia!"
+                    }
                 ]
             },
             {
                 "ref": 85,
                 "verses": [
-                    "Ao mestre do canto, um salmo dos filhos de Côrach.",
-                    "Tu, ó Eterno, Te compadeceste da Tua terra e fizeste retornar os cativos de Jacob.",
-                    "Perdoaste a iniqüidade de Teu povo e apagaste todos os seus pecados.",
-                    "Retiveste toda Tua indignação e Te apartaste do furor da Tua ira.",
-                    "Faze-nos retornar, ó Deus da nossa salvação, e anula Tua cólera contra nós!",
-                    "Acaso permanecerás irado conosco para sempre? Tua indignação estenderás a todas as gerações?",
-                    "Porventura não tornarás Tu a vivificar-nos, para que em Ti se regozije o Teu povo?",
-                    "Mostra-nos a Tua benevolência, ó Eterno, e concede-nos a Tua salvação!",
-                    "Ouvirei o que falar o Eterno, pois palavras de paz Ele dirigirá a Seu povo e a Seus devotos, para que não mais se entreguem à insensatez.",
-                    "Decerto, iminente está Sua salvação para os que O temem, a glória a ser estabelecida em nossa terra.",
-                    "A bondade e a verdade se encontraram, a justiça e a paz se uniram.",
-                    "Da terra brotará a verdade e, do céu, a justiça despontará.",
-                    "Pois o Eterno concederá o bem e a nossa terra produzirá seus frutos.",
-                    "A justiça irá diante Dele quando para nós Ele se voltar."
+                    {
+                        "ref": 1,
+                        "text": "Ao mestre do canto, um salmo dos filhos de Côrach."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Tu, ó Eterno, Te compadeceste da Tua terra e fizeste retornar os cativos de Jacob."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Perdoaste a iniqüidade de Teu povo e apagaste todos os seus pecados."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Retiveste toda Tua indignação e Te apartaste do furor da Tua ira."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Faze-nos retornar, ó Deus da nossa salvação, e anula Tua cólera contra nós!"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Acaso permanecerás irado conosco para sempre? Tua indignação estenderás a todas as gerações?"
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Porventura não tornarás Tu a vivificar-nos, para que em Ti se regozije o Teu povo?"
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Mostra-nos a Tua benevolência, ó Eterno, e concede-nos a Tua salvação!"
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Ouvirei o que falar o Eterno, pois palavras de paz Ele dirigirá a Seu povo e a Seus devotos, para que não mais se entreguem à insensatez."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Decerto, iminente está Sua salvação para os que O temem, a glória a ser estabelecida em nossa terra."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "A bondade e a verdade se encontraram, a justiça e a paz se uniram."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Da terra brotará a verdade e, do céu, a justiça despontará."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Pois o Eterno concederá o bem e a nossa terra produzirá seus frutos."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "A justiça irá diante Dele quando para nós Ele se voltar."
+                    }
                 ]
             },
             {
                 "ref": 86,
                 "verses": [
-                    "Uma prece de David. Ó Eterno, inclina para mim os Teus ouvidos e dá-me Tua resposta, pois sou um desvalido e estou aflito.",
-                    "Preserva minha alma, pois sabes que Te sou devoto; ó Deus meu, salva este servo que em Ti confia.",
-                    "Compadece-Te de mim, que a Ti clamo sem cessar.",
-                    "Conforta a alma de Teu servo, porque a Ti, ó Eterno, eu a elevo.",
-                    "Tu és bondoso e clemente, e imensa é Tua misericórdia para com todos que Te invocam.",
-                    "Escuta minha prece e atende a voz das minhas súplicas, ó Eterno!",
-                    "No dia de minha angústia, a Ti clamarei, e sei que me responderás.",
-                    "Não há entre os deuses um que se possa a Ti comparar, nem obras que se assemelhem às Tuas.",
-                    "Todas as nações que criaste virão prostrar-se ante Ti e glorificarão Teu Nome.",
-                    "Maravilhosos são Teus feitos e imensa é Tua grandeza, pois só Tu és Deus.",
-                    "Ensina-me Teu caminho, ó Eterno, para que eu possa andar sob Tua verdade e dedicar meu coração a temer somente Teu Nome.",
-                    "De todo meu coração hei de Te agradecer, e para sempre glorificarei Teu Nome,",
-                    "pois com Tua incomparável benignidade livraste minha alma do mais profundo abismo.",
-                    "Contra mim se levantaram soberbos e violentos, que não Te tem diante deles e procuravam tirar-me a vida.",
-                    "Mas Tu, ó Eterno, és um Deus clemente e misericordioso, lento em irar-Se e transbordante em bondade e retidão.",
-                    "Volta-Te para mim e compadece-Te; concede de Tua força a Teu servo e salva assim o filho da Tua serva.",
-                    "Apresenta-me um sinal de Teu favor, para que o vejam os que me odeiam, e se sintam humilhados por saber que Tu me ajudas e confortas."
+                    {
+                        "ref": 1,
+                        "text": "Uma prece de David. Ó Eterno, inclina para mim os Teus ouvidos e dá-me Tua resposta, pois sou um desvalido e estou aflito."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Preserva minha alma, pois sabes que Te sou devoto; ó Deus meu, salva este servo que em Ti confia."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Compadece-Te de mim, que a Ti clamo sem cessar."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Conforta a alma de Teu servo, porque a Ti, ó Eterno, eu a elevo."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Tu és bondoso e clemente, e imensa é Tua misericórdia para com todos que Te invocam."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Escuta minha prece e atende a voz das minhas súplicas, ó Eterno!"
+                    },
+                    {
+                        "ref": 7,
+                        "text": "No dia de minha angústia, a Ti clamarei, e sei que me responderás."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Não há entre os deuses um que se possa a Ti comparar, nem obras que se assemelhem às Tuas."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Todas as nações que criaste virão prostrar-se ante Ti e glorificarão Teu Nome."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Maravilhosos são Teus feitos e imensa é Tua grandeza, pois só Tu és Deus."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Ensina-me Teu caminho, ó Eterno, para que eu possa andar sob Tua verdade e dedicar meu coração a temer somente Teu Nome."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "De todo meu coração hei de Te agradecer, e para sempre glorificarei Teu Nome,"
+                    },
+                    {
+                        "ref": 13,
+                        "text": "pois com Tua incomparável benignidade livraste minha alma do mais profundo abismo."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Contra mim se levantaram soberbos e violentos, que não Te tem diante deles e procuravam tirar-me a vida."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Mas Tu, ó Eterno, és um Deus clemente e misericordioso, lento em irar-Se e transbordante em bondade e retidão."
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Volta-Te para mim e compadece-Te; concede de Tua força a Teu servo e salva assim o filho da Tua serva."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Apresenta-me um sinal de Teu favor, para que o vejam os que me odeiam, e se sintam humilhados por saber que Tu me ajudas e confortas."
+                    }
                 ]
             },
             {
                 "ref": 87,
                 "verses": [
-                    "Um salmo e cântico dos filhos de Côrach. Acima de todas as moradas de Jacob,",
-                    "ama o Eterno os portões de Tsión, cujas fundações se assentam sobre a montanha sagrada.",
-                    "Ah, maravilhas são contadas a Teu respeito, ó cidade de Deus!",
-                    "Diz o Eterno: “Por mérito de poucos, lembro do Egito e da Babilônia, e também da Filistéia, Tiro e Cush, sabendo que naqueles lugares eles nasceram.”",
-                    "Mas em Tsión nasceram multidões que conhecem o Eterno e Ele mesmo a estabeleceu como a mais nobre cidade.",
-                    "Quando fizer a lista das nações, destacará os que ali nasceram.",
-                    "Músicos e cantores sobre ela afirmarão: “Todos os meus pensamentos e toda minha inspiração provém de ti, ó Tsión!”"
+                    {
+                        "ref": 1,
+                        "text": "Um salmo e cântico dos filhos de Côrach. Acima de todas as moradas de Jacob,"
+                    },
+                    {
+                        "ref": 2,
+                        "text": "ama o Eterno os portões de Tsión, cujas fundações se assentam sobre a montanha sagrada."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Ah, maravilhas são contadas a Teu respeito, ó cidade de Deus!"
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Diz o Eterno: “Por mérito de poucos, lembro do Egito e da Babilônia, e também da Filistéia, Tiro e Cush, sabendo que naqueles lugares eles nasceram.”"
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Mas em Tsión nasceram multidões que conhecem o Eterno e Ele mesmo a estabeleceu como a mais nobre cidade."
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Quando fizer a lista das nações, destacará os que ali nasceram."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Músicos e cantores sobre ela afirmarão: “Todos os meus pensamentos e toda minha inspiração provém de ti, ó Tsión!”"
+                    }
                 ]
             },
             {
                 "ref": 88,
                 "verses": [
-                    "Um salmo e cântico dos filhos de Côrach; ao mestre do canto, com “Machalat Leanot”, um “Maskil” de Heman, o Ezrachita.",
-                    "Ó Eterno, Deus de minha salvação, dia e noite clamo a Ti.",
-                    "Inclina Teu ouvido e recebe minha súplica.",
-                    "Pois de aflições está saturada minha alma, e minha vida está a se esvair.",
-                    "Fui considerado como alguém a caminho da sepultura, um homem já sem forças,",
-                    "abandonado entre os mortos, como um cadáver numa tumba que já não recebe Tua atenção.",
-                    "Me puseste no fundo de um abismo, nas trevas das profundezas.",
-                    "Pesa sobre mim Tua ira, vagalhões me atormentam.",
-                    "Afastaste de mim meus companheiros e uma abominação me tornaste ante eles; sinto-me numa prisão de onde não posso escapar.",
-                    "Meus olhos esmorecem de aflição; todos os dias estendo para Ti minhas mãos.",
-                    "Será para os mortos que realizarás maravilhas? Erguer-se-ão os cadáveres para Te agradecer?",
-                    "Será nas sepulturas exaltada Tua misericórdia e nas ruínas Tua fidelidade?",
-                    "Podem, na escuridão, serem conhecidas Tuas maravilhas, e na região do esquecimento, Tua justiça?",
-                    "Quanto a mim, a Ti ergo minhas súplicas e, desde o alvorecer, a Ti chega minha prece.",
-                    "Por que repeles minha alma e encobres de mim Tua face?",
-                    "Envolto estou em aflição e desde a juventude me sinto desfalecer; o temor de Ti não me abandona.",
-                    "Teu furor passou sobre mim; me abateu o Teu horror.",
-                    "Como ondas furiosas me cercam todo o dia e juntas me acometem.",
-                    "Afastaste de mim todos os meus amigos, e agora só as trevas me são companheiras."
+                    {
+                        "ref": 1,
+                        "text": "Um salmo e cântico dos filhos de Côrach; ao mestre do canto, com “Machalat Leanot”, um “Maskil” de Heman, o Ezrachita."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Ó Eterno, Deus de minha salvação, dia e noite clamo a Ti."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Inclina Teu ouvido e recebe minha súplica."
+                    },
+                    {
+                        "ref": 4,
+                        "text": "Pois de aflições está saturada minha alma, e minha vida está a se esvair."
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Fui considerado como alguém a caminho da sepultura, um homem já sem forças,"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "abandonado entre os mortos, como um cadáver numa tumba que já não recebe Tua atenção."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Me puseste no fundo de um abismo, nas trevas das profundezas."
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Pesa sobre mim Tua ira, vagalhões me atormentam."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Afastaste de mim meus companheiros e uma abominação me tornaste ante eles; sinto-me numa prisão de onde não posso escapar."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Meus olhos esmorecem de aflição; todos os dias estendo para Ti minhas mãos."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Será para os mortos que realizarás maravilhas? Erguer-se-ão os cadáveres para Te agradecer?"
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Será nas sepulturas exaltada Tua misericórdia e nas ruínas Tua fidelidade?"
+                    },
+                    {
+                        "ref": 13,
+                        "text": "Podem, na escuridão, serem conhecidas Tuas maravilhas, e na região do esquecimento, Tua justiça?"
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Quanto a mim, a Ti ergo minhas súplicas e, desde o alvorecer, a Ti chega minha prece."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Por que repeles minha alma e encobres de mim Tua face?"
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Envolto estou em aflição e desde a juventude me sinto desfalecer; o temor de Ti não me abandona."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Teu furor passou sobre mim; me abateu o Teu horror."
+                    },
+                    {
+                        "ref": 18,
+                        "text": "Como ondas furiosas me cercam todo o dia e juntas me acometem."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Afastaste de mim todos os meus amigos, e agora só as trevas me são companheiras."
+                    }
                 ]
             },
             {
                 "ref": 89,
                 "verses": [
-                    "Um “Maskil” de Etan, o Ezrachita.",
-                    "Para sempre cantarei sobre a imensa bondade do Eterno; minha boca proclamará Tua fidelidade a todas as gerações.",
-                    "Pois posso afirmar: “A bondade é a fundação sobre a qual foi edificado o mundo, e nos céus colocaste a marca de Tua fidelidade.”",
-                    "São palavras do Eterno: “Fiz um pacto com o Meu escolhido e jurei a David, Meu servo:",
-                    "Tua semente perpetuarei pela eternidade e pelas gerações afora manterei Teu trono.”",
-                    "Os céus louvarão Tuas maravilhas, ó Eterno, e os seres celestes Tua fidelidade.",
-                    "Pois quem, nos céus, se compara ao Eterno? Quem, entre os anjos, a Ele se assemelha?",
-                    "Deus é reverenciado entre os anjos, e temido por todos os que estão à Sua volta.",
-                    "Ó Eterno, Senhor dos Exércitos, quem é poderoso como Tu? A fidelidade se estende à Tua volta.",
-                    "Domas o fluxo violento do mar e, quando suas vagas se encapelam, Tu as acalmas.",
-                    "Abateste a Rahav, fazendo-o parecer um morto; com Teu braço poderoso dispersaste Teus inimigos.",
-                    "Teus são os céus e a terra, o mundo e tudo o que ele contém, pois Tu os fizeste.",
-                    "O norte e o sul por Ti foram criados; os montes Tavor e Hermon cantam em júbilo Teu Nome.",
-                    "Vigoroso é Teu braço, forte Tua mão e exaltada Tua Destra.",
-                    "Retidão e justiça são os alicerces de Teu trono, e verdade e bondade emanam de Tua face.",
-                    "Bem-aventurado o povo que reconhece o som do “Shofar”; sob Tua luz hão de caminhar.",
-                    "Por Teu Nome regozijar-se-ão a cada dia, e por Tua justiça serão exaltados,",
-                    "pois Seu poder reflete Teu esplendor e Sua honra provém de Teu favor.",
-                    "Pois do Eterno vem nosso escudo, e do Santo de Israel, nosso rei.",
-                    "Numa visão profética falaste aos que Te são devotos, dizendo: “Concedi força a um valente, exaltei do meio do povo um escolhido;",
-                    "escolhi David, Meu servo, e com Meu sagrado óleo o ungi.",
-                    "Minha mão lhe será sempre amparo e Meu braço o fortalecerá.",
-                    "Nenhum inimigo poderá oprimi-lo nem tampouco o afligirá o iníquo.",
-                    "Esmagarei diante dele seus opressores e destruirei os que o odeiam.",
-                    "Minha dedicação e Minha bondade sempre o acompanharão e por Meu Nome sua honra será exaltada.",
-                    "Porei sua mão sobre os mares; sua destra sobre os rios.",
-                    "Ele me invocará dizendo: ‘Eis meu Pai, meu Deus, a Rocha de minha salvação!’",
-                    "Eu o constituirei Meu primogênito, supremo sobre todos os reis da terra.",
-                    "Minha bondade para com ele não há de cessar e Meu pacto se manterá com ele sempre firme.",
-                    "Sua semente perpetuarei e seu trono preservarei como os dias do céu.",
-                    "Se seus descendentes esquecerem Minha Torá e não trilharem o caminho de minhas Leis;",
-                    "se profanarem Meus estatutos e não cumprirem Meus mandamentos,",
-                    "punirei suas transgressões com severidade, e com pragas sua iniqüidade.",
-                    "Mas não lhe negarei Minha benevolência e não renegarei Minha dedicação fiel.",
-                    "Não profanarei Meu pacto, não modificarei o pronunciamento de Meus lábios.",
-                    "Jurei por Minha santidade que não faltaria com Minha palavra a David.",
-                    "Sua semente persisitirá para sempre e seu trono será para Mim como o sol.",
-                    "Como a lua, fiel testemunha no céu, será preservado eternamente.”",
-                    "Mas abandonaste e rejeitaste irado o Teu ungido;",
-                    "anulaste o convênio com Teu servo, lançaste à terra sua coroa, profanada;",
-                    "rompeste suas muralhas e arruinaste suas fortalezas.",
-                    "Todos que por ele passam, o saqueiam; tornou-se opróbrio para seus vizinhos.",
-                    "Exaltaste a destra de seus atormentadores; alegraste seus inimigos.",
-                    "Até tornaste inócuo o fio de sua espada e não o sustentaste nas batalhas.",
-                    "Eliminaste seu esplendor e jogaste por terra seu trono.",
-                    "Encurtaste os dias de sua juventude e o cobriste de vergonha.",
-                    "Até quando, ó Eterno, Te ocultarás para sempre? Acaso arderá sempre como chama Tua ira?",
-                    "Porventura Te lembras quão breve é minha existência? Por que terias criado em vão todos os homens?",
-                    "Que homem viverá sem encontrar a morte e conseguirá resgatar sua alma do sepulcro?",
-                    "Onde está a benevolência que demonstraste outrora, ó Eterno, e que prometeste a David manter em Tua fidedignidade?",
-                    "Lembra, meu Deus, o opróbrio a que estão submetidos Teus servos por parte da multidão de nações.",
-                    "Aqueles que nos desgraçam são Teus inimigos, ó Eterno; são eles que embargam os passos do Teu ungido.",
-                    "Seja para sempre bendito o Eterno. Assim seja, Amen!"
+                    {
+                        "ref": 1,
+                        "text": "Um “Maskil” de Etan, o Ezrachita."
+                    },
+                    {
+                        "ref": 2,
+                        "text": "Para sempre cantarei sobre a imensa bondade do Eterno; minha boca proclamará Tua fidelidade a todas as gerações."
+                    },
+                    {
+                        "ref": 3,
+                        "text": "Pois posso afirmar: “A bondade é a fundação sobre a qual foi edificado o mundo, e nos céus colocaste a marca de Tua fidelidade.”"
+                    },
+                    {
+                        "ref": 4,
+                        "text": "São palavras do Eterno: “Fiz um pacto com o Meu escolhido e jurei a David, Meu servo:"
+                    },
+                    {
+                        "ref": 5,
+                        "text": "Tua semente perpetuarei pela eternidade e pelas gerações afora manterei Teu trono.”"
+                    },
+                    {
+                        "ref": 6,
+                        "text": "Os céus louvarão Tuas maravilhas, ó Eterno, e os seres celestes Tua fidelidade."
+                    },
+                    {
+                        "ref": 7,
+                        "text": "Pois quem, nos céus, se compara ao Eterno? Quem, entre os anjos, a Ele se assemelha?"
+                    },
+                    {
+                        "ref": 8,
+                        "text": "Deus é reverenciado entre os anjos, e temido por todos os que estão à Sua volta."
+                    },
+                    {
+                        "ref": 9,
+                        "text": "Ó Eterno, Senhor dos Exércitos, quem é poderoso como Tu? A fidelidade se estende à Tua volta."
+                    },
+                    {
+                        "ref": 10,
+                        "text": "Domas o fluxo violento do mar e, quando suas vagas se encapelam, Tu as acalmas."
+                    },
+                    {
+                        "ref": 11,
+                        "text": "Abateste a Rahav, fazendo-o parecer um morto; com Teu braço poderoso dispersaste Teus inimigos."
+                    },
+                    {
+                        "ref": 12,
+                        "text": "Teus são os céus e a terra, o mundo e tudo o que ele contém, pois Tu os fizeste."
+                    },
+                    {
+                        "ref": 13,
+                        "text": "O norte e o sul por Ti foram criados; os montes Tavor e Hermon cantam em júbilo Teu Nome."
+                    },
+                    {
+                        "ref": 14,
+                        "text": "Vigoroso é Teu braço, forte Tua mão e exaltada Tua Destra."
+                    },
+                    {
+                        "ref": 15,
+                        "text": "Retidão e justiça são os alicerces de Teu trono, e verdade e bondade emanam de Tua face."
+                    },
+                    {
+                        "ref": 16,
+                        "text": "Bem-aventurado o povo que reconhece o som do “Shofar”; sob Tua luz hão de caminhar."
+                    },
+                    {
+                        "ref": 17,
+                        "text": "Por Teu Nome regozijar-se-ão a cada dia, e por Tua justiça serão exaltados,"
+                    },
+                    {
+                        "ref": 18,
+                        "text": "pois Seu poder reflete Teu esplendor e Sua honra provém de Teu favor."
+                    },
+                    {
+                        "ref": 19,
+                        "text": "Pois do Eterno vem nosso escudo, e do Santo de Israel, nosso rei."
+                    },
+                    {
+                        "ref": 20,
+                        "text": "Numa visão profética falaste aos que Te são devotos, dizendo: “Concedi força a um valente, exaltei do meio do povo um escolhido;"
+                    },
+                    {
+                        "ref": 21,
+                        "text": "escolhi David, Meu servo, e com Meu sagrado óleo o ungi."
+                    },
+                    {
+                        "ref": 22,
+                        "text": "Minha mão lhe será sempre amparo e Meu braço o fortalecerá."
+                    },
+                    {
+                        "ref": 23,
+                        "text": "Nenhum inimigo poderá oprimi-lo nem tampouco o afligirá o iníquo."
+                    },
+                    {
+                        "ref": 24,
+                        "text": "Esmagarei diante dele seus opressores e destruirei os que o odeiam."
+                    },
+                    {
+                        "ref": 25,
+                        "text": "Minha dedicação e Minha bondade sempre o acompanharão e por Meu Nome sua honra será exaltada."
+                    },
+                    {
+                        "ref": 26,
+                        "text": "Porei sua mão sobre os mares; sua destra sobre os rios."
+                    },
+                    {
+                        "ref": 27,
+                        "text": "Ele me invocará dizendo: ‘Eis meu Pai, meu Deus, a Rocha de minha salvação!’"
+                    },
+                    {
+                        "ref": 28,
+                        "text": "Eu o constituirei Meu primogênito, supremo sobre todos os reis da terra."
+                    },
+                    {
+                        "ref": 29,
+                        "text": "Minha bondade para com ele não há de cessar e Meu pacto se manterá com ele sempre firme."
+                    },
+                    {
+                        "ref": 30,
+                        "text": "Sua semente perpetuarei e seu trono preservarei como os dias do céu."
+                    },
+                    {
+                        "ref": 31,
+                        "text": "Se seus descendentes esquecerem Minha Torá e não trilharem o caminho de minhas Leis;"
+                    },
+                    {
+                        "ref": 32,
+                        "text": "se profanarem Meus estatutos e não cumprirem Meus mandamentos,"
+                    },
+                    {
+                        "ref": 33,
+                        "text": "punirei suas transgressões com severidade, e com pragas sua iniqüidade."
+                    },
+                    {
+                        "ref": 34,
+                        "text": "Mas não lhe negarei Minha benevolência e não renegarei Minha dedicação fiel."
+                    },
+                    {
+                        "ref": 35,
+                        "text": "Não profanarei Meu pacto, não modificarei o pronunciamento de Meus lábios."
+                    },
+                    {
+                        "ref": 36,
+                        "text": "Jurei por Minha santidade que não faltaria com Minha palavra a David."
+                    },
+                    {
+                        "ref": 37,
+                        "text": "Sua semente persisitirá para sempre e seu trono será para Mim como o sol."
+                    },
+                    {
+                        "ref": 38,
+                        "text": "Como a lua, fiel testemunha no céu, será preservado eternamente.”"
+                    },
+                    {
+                        "ref": 39,
+                        "text": "Mas abandonaste e rejeitaste irado o Teu ungido;"
+                    },
+                    {
+                        "ref": 40,
+                        "text": "anulaste o convênio com Teu servo, lançaste à terra sua coroa, profanada;"
+                    },
+                    {
+                        "ref": 41,
+                        "text": "rompeste suas muralhas e arruinaste suas fortalezas."
+                    },
+                    {
+                        "ref": 42,
+                        "text": "Todos que por ele passam, o saqueiam; tornou-se opróbrio para seus vizinhos."
+                    },
+                    {
+                        "ref": 43,
+                        "text": "Exaltaste a destra de seus atormentadores; alegraste seus inimigos."
+                    },
+                    {
+                        "ref": 44,
+                        "text": "Até tornaste inócuo o fio de sua espada e não o sustentaste nas batalhas."
+                    },
+                    {
+                        "ref": 45,
+                        "text": "Eliminaste seu esplendor e jogaste por terra seu trono."
+                    },
+                    {
+                        "ref": 46,
+                        "text": "Encurtaste os dias de sua juventude e o cobriste de vergonha."
+                    },
+                    {
+                        "ref": 47,
+                        "text": "Até quando, ó Eterno, Te ocultarás para sempre? Acaso arderá sempre como chama Tua ira?"
+                    },
+                    {
+                        "ref": 48,
+                        "text": "Porventura Te lembras quão breve é minha existência? Por que terias criado em vão todos os homens?"
+                    },
+                    {
+                        "ref": 49,
+                        "text": "Que homem viverá sem encontrar a morte e conseguirá resgatar sua alma do sepulcro?"
+                    },
+                    {
+                        "ref": 50,
+                        "text": "Onde está a benevolência que demonstraste outrora, ó Eterno, e que prometeste a David manter em Tua fidedignidade?"
+                    },
+                    {
+                        "ref": 51,
+                        "text": "Lembra, meu Deus, o opróbrio a que estão submetidos Teus servos por parte da multidão de nações."
+                    },
+                    {
+                        "ref": 52,
+                        "text": "Aqueles que nos desgraçam são Teus inimigos, ó Eterno; são eles que embargam os passos do Teu ungido."
+                    },
+                    {
+                        "ref": 53,
+                        "text": "Seja para sempre bendito o Eterno. Assim seja, Amen!"
+                    }
                 ]
             }
         ]
