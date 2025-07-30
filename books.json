@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "chaptersFrom": 1,
+            "chapterTo": 41,
+            "bookNumber": "I"
+        },
+        {
+            "chaptersFrom": 42,
+            "chapterTo": 72,
+            "bookNumber": "II"
+        },
+        {
+            "chaptersFrom": 73,
+            "chapterTo": 89,
+            "bookNumber": "III"
+        },
+        {
+            "chaptersFrom": 90,
+            "chapterTo": 106,
+            "bookNumber": "IV"
+        },
+        {
+            "chaptersFrom": 107,
+            "chapterTo": 150,
+            "bookNumber": "V"
+        }
+    ]
+}
