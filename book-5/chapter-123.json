@@ -1,0 +1,25 @@
+{
+    "data": {
+        "chapter": {
+            "ref": 123,
+            "verses": [
+                {
+                    "ref": 1,
+                    "text": "Um cântico de ascensão. Elevo meus olhos a Ti que nos céus habitas!"
+                },
+                {
+                    "ref": 2,
+                    "text": "Assim como se fixam os olhos dos servos na mão de seus senhores e os da serva nas de sua senhora, voltam-se nossos olhos para o Eterno, nosso Deus, e Nele permanecerão fixos até que de nós Se compadeça."
+                },
+                {
+                    "ref": 3,
+                    "text": "Compadece-Te de nós, ó Eterno! Concede-nos Tua compaixão, pois estamos exaustos de suportar tanto opróbrio."
+                },
+                {
+                    "ref": 4,
+                    "text": "Nossa alma está saturada de sofrer escárnio dos faustosos e desprezo dos soberbos."
+                }
+            ]
+        }
+    }
+}

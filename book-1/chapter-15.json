@@ -1,0 +1,29 @@
+{
+    "data": {
+        "chapter": {
+            "ref": 15,
+            "verses": [
+                {
+                    "ref": 1,
+                    "text": "Um salmo de David. Ó Eterno, quem habitará em Teu tabernáculo e quem ascenderá a Teu sagrado monte?"
+                },
+                {
+                    "ref": 2,
+                    "text": "Aquele cujo caminho é de retidão, que prima pela justiça, cujo coração se rende à verdade;"
+                },
+                {
+                    "ref": 3,
+                    "text": "que não tem calúnia em sua língua, que jamais praticou o mal contra seu companheiro nem causou vergonha a seu próximo."
+                },
+                {
+                    "ref": 4,
+                    "text": "O malévolo lhe é repulsivo, mas aos tementes a Deus concede honra; não anula um juramento mesmo quando lhe é danoso."
+                },
+                {
+                    "ref": 5,
+                    "text": "Nunca emprestou seu dinheiro a juros, nem aceitou suborno contra o inocente. Quem desta forma se comporta, jamais sucumbirá."
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "data": {
+        "chapter": {
+            "ref": 23,
+            "verses": [
+                {
+                    "ref": 1,
+                    "text": "Um salmo de David. O Eterno é meu pastor e por isto nada me pode faltar."
+                },
+                {
+                    "ref": 2,
+                    "text": "Ele me faz repousar em campos verdejantes, conduz-me a águas tranqüilas."
+                },
+                {
+                    "ref": 3,
+                    "text": "Restaura minha alma; guia-me por veredas da justiça por amor de Seu Nome."
+                },
+                {
+                    "ref": 4,
+                    "text": "Ainda que eu siga pelo vale das sombras da morte, nada temerei, pois Tu estarás comigo; Teu cajado e Teu bordão me darão apoio e conforto."
+                },
+                {
+                    "ref": 5,
+                    "text": "Me preparas uma mesa de delícias na presença de meus inimigos. Unges com óleo minha cabeça, meu cálice transborda."
+                },
+                {
+                    "ref": 6,
+                    "text": "Certamente a bondade e misericórdia me acompanharão por todos os dias de minha existência. E, por todo o sempre, habitarei na casa do Eterno."
+                }
+            ]
+        }
+    }
+}

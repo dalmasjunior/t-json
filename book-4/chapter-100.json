@@ -1,0 +1,29 @@
+{
+    "data": {
+        "chapter": {
+            "ref": 100,
+            "verses": [
+                {
+                    "ref": 1,
+                    "text": "Um salmo de ação de graças. Habitantes de toda a terra, aclamai com regozijo o Eterno."
+                },
+                {
+                    "ref": 2,
+                    "text": "Apresentai-vos com cânticos diante Dele e servi-O com alegria."
+                },
+                {
+                    "ref": 3,
+                    "text": "Lembrai que o Eterno é Deus; Ele nos fez e somente a Ele pertencemos. Somos Seu povo, o rebanho de Quem é pastor."
+                },
+                {
+                    "ref": 4,
+                    "text": "Com ação de graças atravessai Seus pórticos e erguei louvores em Seus átrios; rendei-Lhe graças e bendizei Seu Nome."
+                },
+                {
+                    "ref": 5,
+                    "text": "Porque pleno de bondade é o Eterno; Sua misericórdia é eterna e Sua fidelidade e dedicação se estendem por todas as gerações."
+                }
+            ]
+        }
+    }
+}
