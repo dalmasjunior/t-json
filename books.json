@@ -3,27 +3,33 @@
         {
             "chaptersFrom": 1,
             "chapterTo": 41,
-            "bookNumber": "I"
+            "bookNumber": "I",
+            "ref": 1
         },
         {
             "chaptersFrom": 42,
             "chapterTo": 72,
-            "bookNumber": "II"
+            "bookNumber": "II",
+            "ref": 2
+            
         },
         {
             "chaptersFrom": 73,
             "chapterTo": 89,
-            "bookNumber": "III"
+            "bookNumber": "III",
+            "ref": 3
         },
         {
             "chaptersFrom": 90,
             "chapterTo": 106,
-            "bookNumber": "IV"
+            "bookNumber": "IV",
+            "ref": 4
         },
         {
             "chaptersFrom": 107,
             "chapterTo": 150,
-            "bookNumber": "V"
+            "bookNumber": "V",
+            "ref": 5
         }
     ]
 }
