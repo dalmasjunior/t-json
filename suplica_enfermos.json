@@ -1,0 +1,30 @@
+{
+  "title": "Súplica pelos Enfermos",
+  "instrucoes": {
+    "descricao": "Recitar os salmos indicados seguidos da súplica",
+    "salmos_recomendados": {
+      "principais": [6, 9, 13, 16, 17, 18, 22, 23, 28, 30, 31, 32, 33, 37, 38, 39, 41, 49, 55, 56, 69, 86, 88, 89, 90, 91, 102, 103, 104, 107, 116, 118, 142, 143, 148],
+      "alternativos": [20, 30, 121, 130, 142],
+      "doenca_grave": [6, 9, 13, 16, 17, 18, 20, 22, 23, 28, 30, 31, 32, 33, 37, 38, 39, 41, 49, 55, 56, 69, 86, 88, 89, 90, 91, 102, 103, 104, 107, 117, 118, 119, 142, 143, 148]
+    },
+    "versiculos_por_nome": true,
+    "observacao": "Personalizar com o nome do enfermo e nome da mãe onde indicado"
+  },
+  "suplica": {
+    "texto": [
+      "Eterno, Eterno, Deus pleno de misericórdia e piedade...",
+      "A Ti, Eterno, pertencem grandeza e poder...",
+      "Seja pois de Tua vontade... cura e recuperação na plenitude de Tua benevolência...",
+      "Cura-nos, Eterno, e seremos curados; salva-nos e seremos salvos...",
+      "Rogamos-Te que concedas cura e recuperação total a [nome] filho/a de [nome da mãe]...",
+      "Amen Sêla!"
+    ]
+  },
+  "recitacoes_especiais": {
+    "aflicao_geral": [13, 20, 102],
+    "aflicao_doenca": [16, 103],
+    "cemiterio": [28, 33, 34, 90, 91, 106, 111, 112, 119, 138, 145, 150],
+    "graca_recebida": [46, 47],
+    "paz": [10, 29]
+  }
+} 

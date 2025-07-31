@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "title": "Oração Anterior à Recitação dos Salmos",
+      "filename": "oracao_anterior_salmos.json"
+    },
+    {
+      "title": "Prece pelo Cônjuge",
+      "filename": "oracao_conjuge.json"
+    },
+    {
+      "title": "Prece pelo Sucesso dos Filhos",
+      "filename": "oracao_filhos_sucesso.json"
+    },
+    {
+      "title": "Prece dos Filhos pelos Pais",
+      "filename": "oracao_filhos_pais.json"
+    },
+    {
+      "title": "Prece pela Saúde",
+      "filename": "oracao_saude.json"
+    },
+    {
+      "title": "Oração após a Recitação dos Salmos",
+      "filename": "oracao_pos_salmos_dias_comuns.json"
+    },
+    {
+      "title": "Oração após a Recitação dos Salmos no Shabat e Dias Festivos",
+      "filename": "oracao_pos_salmos_shabat.json"
+    },
+    {
+      "title": "Súplica pelos Enfermos",
+      "filename": "suplica_enfermos.json"
+    },
+    {
+      "title": "Prece pelo Sustento",
+      "filename": "prece_sustento.json"
+    }
+  ]
+} 
