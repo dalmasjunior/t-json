@@ -1,9 +1,16 @@
 {
-  "title": "Oração após a Recitação dos Salmos no Shabat e Dias Festivos",
-  "tipo": "shabat_e_festivos",
-  "texto": [
-    "Ó Eterno, nosso Deus e Deus e nossos pais, pelo mérito do(s) livro(s)...",
-    "Que esta mística união nos traga uma plenitude de bênçãos para nosso espírito e alento para nossa alma...",
-    "Amen Sêla!"
-  ]
+  "data": {
+    "title": "Oração após a Recitação dos Salmos no Shabat e Dias Festivos",
+    "tipo": "shabat_e_festivos",
+    "paragraphs": [
+      "Ó Eterno, nosso Deus e Deus e nossos pais, pelo mérito do(s) livro(s)",
+      "Um Dois Três Quatro Cinco",
+      "dos Salmos, correspondente(s) ao(s) livro(s)",
+      "Gênesis Êxodo Levítico Números Deuteronômio",
+      "da Torá, que acabamos de recitar, pelos méritos das palavras que formam seus versículos e pelo mérito dos sagrados Nomes Divinos que deles emanam, considera-os como se pelo prório rei David - de abençoada memória, e que seja para nós um escudo de proteção o seu mérito - tivessem sido recitados, fazendo a Noiva da Juventude unir-se a Seu Amado em fraternidade, companheirismo e amor.",
+      "Que esta mística união nos traga uma plenitude de bençãos para nosso espírito e alento para nossa alma.",
+      "Assim como elevamos a Ti nossas canções neste mundo, que mereçamos, ó Eterno, nosso Deus, o privilágio de cantar Teus louvores no mundo vindouro e, através da recitação dos Salmos, levar a Rosa de Haron a cantar harmoniosamente, com júbilo e ẽxtase, na Morada de nosso Deus, revestida de esplendor e majestade, prontamente, ainda em nossos dias.",
+      "Amen Sêla"
+    ]    
+  }
 } 

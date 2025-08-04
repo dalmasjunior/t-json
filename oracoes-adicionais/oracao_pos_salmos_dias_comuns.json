@@ -1,13 +1,30 @@
 {
-  "title": "Oração após a Recitação dos Salmos",
-  "tipo": "dias_comuns",
-  "texto": [
-    "Ó Eterno, nosso Deus e Deus e nossos pais, pelo mérito do(s) livro(s)",
-    "Um Dois Três Quatro Cinco dos Salmos, correspondente(s) ao(s) livro(s)",
-    "Gênesis Êxodo Levítico Números Deuteronômio",
-    "da Torá, que acabamos de recitar, pelos méritos das palavras que formam seus versículos e pelo mérito dos sagrados Nomes Divinos que deles emanam...",
-    "Envia um pleno restabelecimento aos enfermos de Tua nação (e particularmente a [nome], filho/a de [nome da mãe]).",
-    "Proclama liberdade para os cativos... Que logo nos redimas e reconstrua nosso Templo Sagrado com todo seu esplendor...",
-    "Bendito seja o Eterno para todo o sempre. Assim seja, Amén!"
-  ]
+  "data": {
+    "title": "Oração após a Recitação dos Salmos",
+    "tipo": "dias_comuns",
+    "paragraphs": [
+      "Ó Eterno, nosso Deus e Deus e nossos pais, pelo mérito do(s) livro(s)",
+      "Um Dois Três Quatro Cinco",
+      "dos Salmos, correspondente(s) ao(s) livro(s)",
+      "Gênesis Êxodo Levítico Números Deuteronômio",
+      "da Torá, que acabamos de recitar, pelos méritos das palavras que formam seus versículos e pelo mérito dos sagrados Nomes Divinos que deles emanam...",
+      "Envia um pleno restabelecimento aos enfermos de Tua nação (e particularmente a [nome], filho/a de [nome da mãe]).",
+      "Proclama liberdade para os cativos, e que sejam libertados todos os prisioneiros.",
+      "Quanto aos peregrinos do Teu povo, viajantes por terras, mares ou rios, protege-os, livra-os de ferimentos e dores e conduze-os em paz a seus destinos.",
+      "Recorda-Te dos que ainda não conseguiram ter filhos, para que venham a tê-los e para que Te sirvam eternamente.",
+      "Protege as grávidas de Tua Nação, Israel, para que não ocorram abortos, e livra de todo mal as que já estão na sala de parto.",
+      "Faze com que não falte leite ao seio das mães que amamentam.",
+      "Que doenças, aflições e ocorrências más não acometam a nenhuma criança de Teu povo.",
+      "Conduze-o ao estudo da Torá com dedicação e amor. Protege-os da inclinação para o mal, da pestilência, das pragas, dos olhos que lhe desejem o mal, e de Satã.",
+      "Anula os decretos malévolos que ameacem prejudicar aos membros de Teu povom aode quer que estejam.",
+      "Que um espírito de bondade paire sobre os corações dos governantes em relação a nós e para que decretem leis favoráveis e benignas.",
+      "Envia bênçãos e êxito para todas as nossas obras. Que nosso sustento venha de Tua mão, aberta e generosa, e que Teu povo Israel não seja forçado a depender de ajuda de outras pessoas ou outras nações.",
+      "Concede amplo sustento a cada um de nós e permite-nos conseguir o que, porventura, nos falte.",
+      "Que logo nos redimas e reconstruas nosso Templo Sagrado com todo seu esplendor e santidade, pelo mérito dos Treze Atributos de Misericórdia registrados em Tua Torá, como está escrito:",
+      "\"Eterno, Eterno, Deus misericordioso e piedoso, tardiu em irar-se, abundante em bondade e verdade, que mantém Sua piedade para com duas mil gerações, perdoa a iniquidade, a rebelião e o pecado e absolve.\"",
+      "Quem Te invoca desta forma não deixa de receber Tua resposta. Ajuda-me, ó Deus de nossa salvação, pela glória do Teu Nome.",
+      "Salva-nos e concede-nos expiação por nossas transgressões, por amor de Teu Nome",
+      "Bendito seja o Eterno para todo o sempre. Assim seja, Amén!"
+    ]
+  }
 } 
