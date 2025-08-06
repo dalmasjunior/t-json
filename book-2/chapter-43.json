@@ -27,7 +27,9 @@
             "previousChapter": 42,
             "nextChapter": 44,
             "previousBook": 2,
-            "nextBook": 2
+            "nextBook": 2,
+            "previousRoman": "II",
+            "nextRoman": "II"
         }
     }
 }

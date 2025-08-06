@@ -59,7 +59,9 @@
             "previousChapter": 35,
             "nextChapter": 37,
             "previousBook": 1,
-            "nextBook": 1
+            "nextBook": 1,
+            "previousRoman": "I",
+            "nextRoman": "I"
         }
     }
 }

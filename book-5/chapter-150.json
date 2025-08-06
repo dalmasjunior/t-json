@@ -31,7 +31,9 @@
             "previousChapter": 149,
             "nextChapter": null,
             "previousBook": 5,
-            "nextBook": null
+            "nextBook": null,
+            "previousRoman": "V",
+            "nextRoman": null
         }
     }
 }

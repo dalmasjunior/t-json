@@ -147,7 +147,9 @@
             "previousChapter": 103,
             "nextChapter": 105,
             "previousBook": 4,
-            "nextBook": 4
+            "nextBook": 4,
+            "previousRoman": "IV",
+            "nextRoman": "IV"
         }
     }
 }
