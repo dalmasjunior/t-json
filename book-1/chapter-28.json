@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Salva Teu povo e abençoa Tua herança; sê Tu o seu pastor e enaltece-o para sempre."
                 }
-            ]
+            ],
+            "previousChapter": 27,
+            "nextChapter": 29,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

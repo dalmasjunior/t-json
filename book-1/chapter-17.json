@@ -63,7 +63,11 @@
                     "ref": 15,
                     "text": "Quanto a mim, por minha integridade, contemplarei Tua face; e ao despertar serei saciado por Tua visão."
                 }
-            ]
+            ],
+            "previousChapter": 16,
+            "nextChapter": 18,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

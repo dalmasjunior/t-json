@@ -195,7 +195,11 @@
                     "ref": 48,
                     "text": "Bendito seja o Eterno, Deus de Israel, de geração em geração; e todo o povo dirá Amen! Louvado seja o Eterno! Haleluiá!"
                 }
-            ]
+            ],
+            "previousChapter": 105,
+            "nextChapter": 107,
+            "previousBook": 4,
+            "nextBook": 5
         }
     }
 }

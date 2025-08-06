@@ -119,7 +119,11 @@
                     "ref": 29,
                     "text": "Agradecei ao Eterno, porque Ele é bom e eterna é Sua misericórdia."
                 }
-            ]
+            ],
+            "previousChapter": 117,
+            "nextChapter": 119,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

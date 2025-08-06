@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "Salva-nos, ó Eterno! Responde-nos, ó nosso Rei, no dia em que Te invocarmos!"
                 }
-            ]
+            ],
+            "previousChapter": 19,
+            "nextChapter": 21,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

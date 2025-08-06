@@ -23,7 +23,11 @@
                     "ref": 5,
                     "text": "Nunca emprestou seu dinheiro a juros, nem aceitou suborno contra o inocente. Quem desta forma se comporta, jamais sucumbirá."
                 }
-            ]
+            ],
+            "previousChapter": 14,
+            "nextChapter": 16,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

@@ -27,7 +27,11 @@
                     "ref": 6,
                     "text": "Certamente a bondade e misericórdia me acompanharão por todos os dias de minha existência. E, por todo o sempre, habitarei na casa do Eterno."
                 }
-            ]
+            ],
+            "previousChapter": 22,
+            "nextChapter": 24,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

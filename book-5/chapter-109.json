@@ -127,7 +127,11 @@
                     "ref": 31,
                     "text": "Pois Ele Se posta à direita do destituído, para salvá-lo dos que pretendem condenar sua alma."
                 }
-            ]
+            ],
+            "previousChapter": 108,
+            "nextChapter": 110,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

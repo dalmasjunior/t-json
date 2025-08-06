@@ -23,7 +23,11 @@
                     "ref": 5,
                     "text": "Porque pleno de bondade é o Eterno; Sua misericórdia é eterna e Sua fidelidade e dedicação se estendem por todas as gerações."
                 }
-            ]
+            ],
+            "previousChapter": 99,
+            "nextChapter": 101,
+            "previousBook": 4,
+            "nextBook": 4
         }
     }
 }

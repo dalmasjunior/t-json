@@ -83,7 +83,11 @@
                     "ref": 20,
                     "text": "Restaura-nos, ó Eterno, Deus dos Exércitos, e faze sobre nós resplandecer Tua face, e então seremos salvos!"
                 }
-            ]
+            ],
+            "previousChapter": 79,
+            "nextChapter": 81,
+            "previousBook": 3,
+            "nextBook": 3
         }
     }
 }

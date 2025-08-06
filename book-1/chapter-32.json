@@ -47,7 +47,11 @@
                     "ref": 11,
                     "text": "Alegrem-se no Eterno e rejubilem-se, ó justos, e exultai todos os retos de coração."
                 }
-            ]
+            ],
+            "previousChapter": 31,
+            "nextChapter": 33,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

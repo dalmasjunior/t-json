@@ -59,7 +59,11 @@
                     "ref": 14,
                     "text": "Bendito seja o Eterno, Deus de Israel, para todo sempre. Amen! Assim seja!"
                 }
-            ]
+            ],
+            "previousChapter": 40,
+            "nextChapter": 42,
+            "previousBook": 1,
+            "nextBook": 2
         }
     }
 }

@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Em vão os circundam os ímpios, enquanto dentre todos os homens eleva os piedosos."
                 }
-            ]
+            ],
+            "previousChapter": 11,
+            "nextChapter": 13,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

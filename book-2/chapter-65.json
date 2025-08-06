@@ -59,7 +59,11 @@
                     "ref": 14,
                     "text": "As pradarias se revestem de rebanhos, grãos cobrem os prados e clamor de exaltação e modulação de canções deles emanam."
                 }
-            ]
+            ],
+            "previousChapter": 64,
+            "nextChapter": 66,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

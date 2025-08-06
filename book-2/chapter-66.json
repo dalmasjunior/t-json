@@ -83,7 +83,11 @@
                     "ref": 20,
                     "text": "Bendito seja, pois não rejeitou minha prece e não me negou Sua bondade."
                 }
-            ]
+            ],
+            "previousChapter": 65,
+            "nextChapter": 67,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

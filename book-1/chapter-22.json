@@ -131,7 +131,11 @@
                     "ref": 32,
                     "text": "Anunciarão às gerações vindouras a bondade de seus feitos."
                 }
-            ]
+            ],
+            "previousChapter": 21,
+            "nextChapter": 23,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

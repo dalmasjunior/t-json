@@ -147,7 +147,11 @@
                     "ref": 36,
                     "text": "De Seu santuário emana o temor do Eterno, o Deus de Israel, que concede força e grandeza a Seu povo. Bendito sejas, ó Deus!"
                 }
-            ]
+            ],
+            "previousChapter": 67,
+            "nextChapter": 69,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

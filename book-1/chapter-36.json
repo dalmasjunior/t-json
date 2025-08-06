@@ -55,7 +55,11 @@
                     "ref": 13,
                     "text": "Eis que tombarão os que praticam o mal, cairão e não mais se poderão reerguer."
                 }
-            ]
+            ],
+            "previousChapter": 35,
+            "nextChapter": 37,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

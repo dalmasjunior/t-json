@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Em completa paz poderei repousar e dormir, porque somente Tu, ó Eterno, me manterás em segurança."
                 }
-            ]
+            ],
+            "previousChapter": 3,
+            "nextChapter": 5,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

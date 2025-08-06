@@ -35,7 +35,11 @@
                     "ref": 8,
                     "text": "que converte o rochedo num lago e o penhasco numa fonte."
                 }
-            ]
+            ],
+            "previousChapter": 113,
+            "nextChapter": 115,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

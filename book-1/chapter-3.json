@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "A salvação provém do Eterno; que sobre Teu povo recaia Tua bênção."
                 }
-            ]
+            ],
+            "previousChapter": 2,
+            "nextChapter": 4,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

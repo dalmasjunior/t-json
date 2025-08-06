@@ -51,7 +51,11 @@
                     "ref": 12,
                     "text": "Que o Eterno dos exércitos esteja sempre conosco! Que nossa fortaleza seja o Deus de Jacob!"
                 }
-            ]
+            ],
+            "previousChapter": 45,
+            "nextChapter": 47,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

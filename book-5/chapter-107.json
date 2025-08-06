@@ -175,7 +175,11 @@
                     "ref": 43,
                     "text": "Que disto se aperceba quem é sábio e compreenderá, então, a bondade misericordiosa do Eterno."
                 }
-            ]
+            ],
+            "previousChapter": 106,
+            "nextChapter": 108,
+            "previousBook": 4,
+            "nextBook": 5
         }
     }
 }

@@ -87,7 +87,11 @@
                     "ref": 21,
                     "text": "Comprazer-Te-ás com sacrifícios sinceros, e oferendas e holocaustos trazidos a Teu altar."
                 }
-            ]
+            ],
+            "previousChapter": 50,
+            "nextChapter": 52,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

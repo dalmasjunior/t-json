@@ -75,7 +75,11 @@
                     "ref": 18,
                     "text": "para que vingados sejam o órfão e o desamparado, para que não mais possam os homens da terra se tornar tiranos."
                 }
-            ]
+            ],
+            "previousChapter": 9,
+            "nextChapter": 11,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

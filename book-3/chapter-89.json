@@ -215,7 +215,11 @@
                     "ref": 53,
                     "text": "Seja para sempre bendito o Eterno. Assim seja, Amen!"
                 }
-            ]
+            ],
+            "previousChapter": 88,
+            "nextChapter": 90,
+            "previousBook": 3,
+            "nextBook": 4
         }
     }
 }

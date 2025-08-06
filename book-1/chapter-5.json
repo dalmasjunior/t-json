@@ -55,7 +55,11 @@
                     "ref": 13,
                     "text": "Pois Tu certamente abençoarás o justo, ó Eterno, envolvendo-o em Teu afeto como um escudo."
                 }
-            ]
+            ],
+            "previousChapter": 4,
+            "nextChapter": 6,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

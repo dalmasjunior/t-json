@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Então, com salmos e canções, para sempre exaltarei Teu Nome, e cumprirei os votos que Te fiz."
                 }
-            ]
+            ],
+            "previousChapter": 60,
+            "nextChapter": 62,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

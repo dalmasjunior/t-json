@@ -707,7 +707,11 @@
                     "ref": 176,
                     "text": "Como uma ovelha perdida estive desgarrado; busca Teu servo, ó Eterno, porque Teus mandamentos jamais esqueci."
                 }
-            ]
+            ],
+            "previousChapter": 118,
+            "nextChapter": 120,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

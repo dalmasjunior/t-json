@@ -59,7 +59,11 @@
                     "ref": 14,
                     "text": "Pois da morte resgataste minha alma, de andar sem repouso poupaste meu pé para que eu possa caminhar perante Ti à luz da vida."
                 }
-            ]
+            ],
+            "previousChapter": 55,
+            "nextChapter": 57,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

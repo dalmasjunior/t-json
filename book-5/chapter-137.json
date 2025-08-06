@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Sim, bem-aventurado será aquele que teus filhos esmagar contra uma rocha."
                 }
-            ]
+            ],
+            "previousChapter": 136,
+            "nextChapter": 138,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

@@ -103,7 +103,11 @@
                     "ref": 25,
                     "text": "Que força e coragem animem os corações de todos os que esperam pelo Eterno."
                 }
-            ]
+            ],
+            "previousChapter": 30,
+            "nextChapter": 32,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

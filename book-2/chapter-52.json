@@ -47,7 +47,11 @@
                     "ref": 11,
                     "text": "Agradecer-Te-ei eternamente pelo que me fizeste e glorificarei a bondade de Teu Nome na presença dos Teus fiéis."
                 }
-            ]
+            ],
+            "previousChapter": 51,
+            "nextChapter": 53,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

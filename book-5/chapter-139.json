@@ -99,7 +99,11 @@
                     "ref": 24,
                     "text": "E se vires em mim um mau caminho, guia-me ao caminho certo."
                 }
-            ]
+            ],
+            "previousChapter": 138,
+            "nextChapter": 140,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

@@ -63,7 +63,11 @@
                     "ref": 15,
                     "text": "Bem-aventurado é este povo; bem-aventurado é o povo cujo Deus é o Eterno."
                 }
-            ]
+            ],
+            "previousChapter": 143,
+            "nextChapter": 145,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

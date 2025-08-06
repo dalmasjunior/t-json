@@ -27,7 +27,11 @@
                     "ref": 6,
                     "text": "Os que a chorar vêm trazendo as sementes, em júbilo retornarão carregando os frutos da colheita tão esperada."
                 }
-            ]
+            ],
+            "previousChapter": 125,
+            "nextChapter": 127,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

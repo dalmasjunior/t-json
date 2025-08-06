@@ -55,7 +55,11 @@
                     "ref": 13,
                     "text": "que abate o orgulho dos príncipes e inspira temor aos reis da terra."
                 }
-            ]
+            ],
+            "previousChapter": 75,
+            "nextChapter": 77,
+            "previousBook": 3,
+            "nextBook": 3
         }
     }
 }

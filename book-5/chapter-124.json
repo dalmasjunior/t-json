@@ -35,7 +35,11 @@
                     "ref": 8,
                     "text": "Nosso socorro foi e é o Nome do Eterno, o Criador dos céus e da terra."
                 }
-            ]
+            ],
+            "previousChapter": 123,
+            "nextChapter": 125,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

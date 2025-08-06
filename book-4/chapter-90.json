@@ -71,7 +71,11 @@
                     "ref": 17,
                     "text": "Que sobre nós pouse Tua graça; faze prosperar as obras de nossas mãos; sim, a obra das nossas mãos, faze prosperar."
                 }
-            ]
+            ],
+            "previousChapter": 89,
+            "nextChapter": 91,
+            "previousBook": 3,
+            "nextBook": 4
         }
     }
 }

@@ -35,7 +35,11 @@
                     "ref": 8,
                     "text": "Estarás sob Sua proteção ao saires e ao voltares, desde agora e para todo o sempre."
                 }
-            ]
+            ],
+            "previousChapter": 120,
+            "nextChapter": 122,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

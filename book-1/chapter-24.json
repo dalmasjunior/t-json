@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "Quem é este Rei da Glória? O Eterno dos exércitos, Ele é o Rei da Glória."
                 }
-            ]
+            ],
+            "previousChapter": 23,
+            "nextChapter": 25,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

@@ -59,7 +59,11 @@
                     "ref": 14,
                     "text": "Exaltado sejas por Tua força; louvores a Teus feitos prodigiosos entoaremos com canções."
                 }
-            ]
+            ],
+            "previousChapter": 20,
+            "nextChapter": 22,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

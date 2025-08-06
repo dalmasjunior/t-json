@@ -75,7 +75,11 @@
                     "ref": 18,
                     "text": "Ó minha Fortaleza, hinos cantarei em Teu louvor, pois és o Deus de meu abrigo, ó Deus de minha misericórdia."
                 }
-            ]
+            ],
+            "previousChapter": 58,
+            "nextChapter": 60,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

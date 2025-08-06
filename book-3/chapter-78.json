@@ -291,7 +291,11 @@
                     "ref": 72,
                     "text": "Ele os governou com a retidão de seu coração, e com habilidade os passou a dirigir."
                 }
-            ]
+            ],
+            "previousChapter": 77,
+            "nextChapter": 79,
+            "previousBook": 3,
+            "nextBook": 3
         }
     }
 }

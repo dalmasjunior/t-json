@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Exaltai o Eterno, nosso Deus, e prostrai-vos no Seu santo Monte, porque santo é o Eterno, nosso Deus."
                 }
-            ]
+            ],
+            "previousChapter": 98,
+            "nextChapter": 100,
+            "previousBook": 4,
+            "nextBook": 4
         }
     }
 }

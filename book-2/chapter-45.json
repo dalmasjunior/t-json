@@ -75,7 +75,11 @@
                     "ref": 18,
                     "text": "Em todas as gerações lembrarei teu nome e eternamente hão de te louvar todas as nações."
                 }
-            ]
+            ],
+            "previousChapter": 44,
+            "nextChapter": 46,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

@@ -31,7 +31,11 @@
                     "ref": 7,
                     "text": "Que de Tsión logo venha a salvação de Israel! Quando o Eterno fizer retornar Seu povo, então Jacob rejubilará e Israel se alegrará."
                 }
-            ]
+            ],
+            "previousChapter": 13,
+            "nextChapter": 15,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

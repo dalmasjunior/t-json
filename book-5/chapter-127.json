@@ -23,7 +23,11 @@
                     "ref": 5,
                     "text": "Bem-aventurado o homem cuja aljava deles está repleta! Mesmo por seus inimigos serão respeitados, quando com eles dialogarem junto às portas da cidade."
                 }
-            ]
+            ],
+            "previousChapter": 126,
+            "nextChapter": 128,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

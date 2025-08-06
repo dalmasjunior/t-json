@@ -47,7 +47,11 @@
                     "ref": 11,
                     "text": "Todos os meus inimigos se verão frustrados e envolvidos por terror, de pronto hão de recuar envergonhados."
                 }
-            ]
+            ],
+            "previousChapter": 5,
+            "nextChapter": 7,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

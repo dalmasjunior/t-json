@@ -51,7 +51,11 @@
                     "ref": 12,
                     "text": "Pelos caminhos retos marcharei e perante todos bendirei o Eterno."
                 }
-            ]
+            ],
+            "previousChapter": 25,
+            "nextChapter": 27,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

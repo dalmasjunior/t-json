@@ -87,7 +87,11 @@
                     "ref": 21,
                     "text": "E, triunfalmente, pela mão de Moisés e Aarão, conduziste como um rebanho Teu povo da escravidão para a liberdade."
                 }
-            ]
+            ],
+            "previousChapter": 76,
+            "nextChapter": 78,
+            "previousBook": 3,
+            "nextBook": 3
         }
     }
 }

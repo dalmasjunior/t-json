@@ -47,7 +47,11 @@
                     "ref": 11,
                     "text": "O Eterno concederá força ao Seu povo; o Eterno o abençoará com paz."
                 }
-            ]
+            ],
+            "previousChapter": 28,
+            "nextChapter": 30,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

@@ -163,7 +163,11 @@
                     "ref": 40,
                     "text": "E o Eterno auxiliará e os libertará; livrá-los-á dos ímpios e os salvará, pois Nele se refugiaram."
                 }
-            ]
+            ],
+            "previousChapter": 36,
+            "nextChapter": 38,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

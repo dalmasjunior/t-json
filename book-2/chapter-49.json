@@ -87,7 +87,11 @@
                     "ref": 21,
                     "text": "O homem que se engrandece e não tem entendimento para seguir os caminhos traçados pelo Eterno, assemelha-se aos animais que perecem e não deixam sequer lembrança."
                 }
-            ]
+            ],
+            "previousChapter": 48,
+            "nextChapter": 50,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

@@ -115,7 +115,11 @@
                     "ref": 28,
                     "text": "E minha voz enaltecerá Tua justiça e cantará todo dia em Teu louvor."
                 }
-            ]
+            ],
+            "previousChapter": 34,
+            "nextChapter": 36,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

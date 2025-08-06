@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "Que eles mesmos nelas se venham a precipitar, enquanto eu delas me livro incólume."
                 }
-            ]
+            ],
+            "previousChapter": 140,
+            "nextChapter": 142,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

@@ -55,7 +55,11 @@
                     "ref": 13,
                     "text": "Então, nós, Teu povo, o rebanho de Teu campo, louvar-Te-emos eternamente, e de geração em geração cantaremos Tua glória."
                 }
-            ]
+            ],
+            "previousChapter": 78,
+            "nextChapter": 80,
+            "previousBook": 3,
+            "nextBook": 3
         }
     }
 }

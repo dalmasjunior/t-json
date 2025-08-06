@@ -47,7 +47,11 @@
                     "ref": 11,
                     "text": "Far-me-ás conhecer a vereda da vida; em Tua Presença a alegria se torna plena; à Tua Destra, as delícias são eternas."
                 }
-            ]
+            ],
+            "previousChapter": 15,
+            "nextChapter": 17,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

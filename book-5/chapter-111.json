@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "O temor ao Eterno e a plena compreensão de Seus mandamentos são a base da sabedoria. Seu louvor perdura para sempre."
                 }
-            ]
+            ],
+            "previousChapter": 110,
+            "nextChapter": 112,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

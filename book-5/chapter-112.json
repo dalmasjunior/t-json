@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "O ímpio, porém, ao ver o que acontece se sentirá revoltado; inutilmente rangerá seus dentes e terá frustrada sua ambição."
                 }
-            ]
+            ],
+            "previousChapter": 111,
+            "nextChapter": 113,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

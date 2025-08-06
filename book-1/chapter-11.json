@@ -31,7 +31,11 @@
                     "ref": 7,
                     "text": "Pois justo é o Eterno, que ama a retidão, e os puros contemplarão Sua face."
                 }
-            ]
+            ],
+            "previousChapter": 10,
+            "nextChapter": 12,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

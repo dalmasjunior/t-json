@@ -207,7 +207,11 @@
                     "ref": 51,
                     "text": "Ele engrandece as vitórias do Seu rei e faz benevolência com o Seu ungido, com David e com a sua semente, para sempre."
                 }
-            ]
+            ],
+            "previousChapter": 17,
+            "nextChapter": 19,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "Ó Eterno, nosso Deus! Quão majestoso é o Teu Nome em toda a terra!"
                 }
-            ]
+            ],
+            "previousChapter": 7,
+            "nextChapter": 9,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

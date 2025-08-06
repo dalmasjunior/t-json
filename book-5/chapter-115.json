@@ -75,7 +75,11 @@
                     "ref": 18,
                     "text": "Mas nós bendiremos ao Eterno, desde agora e para todo o sempre. Louvado seja o Eterno! Haleluiá!"
                 }
-            ]
+            ],
+            "previousChapter": 114,
+            "nextChapter": 116,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

@@ -31,7 +31,11 @@
                     "ref": 7,
                     "text": "Não quero a guerra, mas mesmo quando lhes falo de paz eles preferem a guerra."
                 }
-            ]
+            ],
+            "previousChapter": 119,
+            "nextChapter": 121,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

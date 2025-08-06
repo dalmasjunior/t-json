@@ -43,7 +43,11 @@
                     "ref": 10,
                     "text": "Os príncipes dos povos se reuniram ao povo do Deus de Abrahão; reconheceram que ao Eterno obedecem todos os guardiões da terra. Magnificente é Sua grandeza!"
                 }
-            ]
+            ],
+            "previousChapter": 46,
+            "nextChapter": 48,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

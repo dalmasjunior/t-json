@@ -99,7 +99,11 @@
                     "ref": 24,
                     "text": "Minha voz relatará todos os dias como, em Tua justiça, humilhaste e frustraste os intentos dos que me desejavam mal."
                 }
-            ]
+            ],
+            "previousChapter": 70,
+            "nextChapter": 72,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

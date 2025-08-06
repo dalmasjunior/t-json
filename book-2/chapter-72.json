@@ -83,7 +83,11 @@
                     "ref": 20,
                     "text": "Terminadas estão as orações de David, filho de Yishai."
                 }
-            ]
+            ],
+            "previousChapter": 71,
+            "nextChapter": 73,
+            "previousBook": 2,
+            "nextBook": 3
         }
     }
 }

@@ -91,7 +91,11 @@
                     "ref": 22,
                     "text": "Ó Deus, redime Israel de todas suas atribulações!"
                 }
-            ]
+            ],
+            "previousChapter": 24,
+            "nextChapter": 26,
+            "previousBook": 1,
+            "nextBook": 1
         }
     }
 }

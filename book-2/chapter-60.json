@@ -59,7 +59,11 @@
                     "ref": 14,
                     "text": "Só com o Eterno triunfaremos, pois Ele destruirá nossos inimigos."
                 }
-            ]
+            ],
+            "previousChapter": 59,
+            "nextChapter": 61,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

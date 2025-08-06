@@ -27,7 +27,11 @@
                     "ref": 6,
                     "text": "pois o Eterno favorece o caminho dos justos, enquanto o dos ímpios os conduz à sua ruína."
                 }
-            ]
+            ],
+            "previousChapter": null,
+            "nextChapter": 2,
+            "previousBook": null,
+            "nextBook": 1
         }
     }
 }

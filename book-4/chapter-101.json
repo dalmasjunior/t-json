@@ -35,7 +35,11 @@
                     "ref": 8,
                     "text": "A cada manhã hei de exterminar os ímpios da terra, para livrar de todos os malévolos a cidade do Eterno."
                 }
-            ]
+            ],
+            "previousChapter": 100,
+            "nextChapter": 102,
+            "previousBook": 4,
+            "nextBook": 4
         }
     }
 }

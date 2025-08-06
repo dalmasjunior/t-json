@@ -87,7 +87,11 @@
                     "ref": 21,
                     "text": "Que proclame minha boca o louvor do Eterno, e bendiga toda criatura Seu santo Nome por todo o sempre!"
                 }
-            ]
+            ],
+            "previousChapter": 144,
+            "nextChapter": 146,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

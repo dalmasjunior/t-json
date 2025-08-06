@@ -63,7 +63,11 @@
                     "ref": 15,
                     "text": "Pois este é o nosso Deus para todo o sempre; e é Ele que nos guiará mesmo além da vida."
                 }
-            ]
+            ],
+            "previousChapter": 47,
+            "nextChapter": 49,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

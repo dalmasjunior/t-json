@@ -39,7 +39,11 @@
                     "ref": 9,
                     "text": "Por amor à casa do Eterno, nosso Deus, buscarei sempre o Teu bem."
                 }
-            ]
+            ],
+            "previousChapter": 121,
+            "nextChapter": 123,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }

@@ -111,7 +111,11 @@
                     "ref": 27,
                     "text": "Levanta-Te, vem em nossa ajuda e nos redime por Tua imensa magnanimidade."
                 }
-            ]
+            ],
+            "previousChapter": 43,
+            "nextChapter": 45,
+            "previousBook": 2,
+            "nextBook": 2
         }
     }
 }

@@ -35,7 +35,11 @@
                     "ref": 8,
                     "text": "Os transeuntes não dirão, como diante de belas flores, que “seja sobre vós estendida a bênção do Eterno, em cujo Nome vos abençoamos!”"
                 }
-            ]
+            ],
+            "previousChapter": 128,
+            "nextChapter": 130,
+            "previousBook": 5,
+            "nextBook": 5
         }
     }
 }
