@@ -4,6 +4,10 @@
             "ref": 119,
             "verses": [
                 {
+                    "ref": "",
+                    "text": "א - Alef"
+                },
+                {
                     "ref": 1,
                     "text": "Bem-aventurados aqueles cujos caminhos são íntegros e que andam nas trilhas da lei do Eterno."
                 },
@@ -37,7 +41,7 @@
                 },
                 {
                     "ref": "",
-                    "text": "Alef"
+                    "text": "ב - Bet"
                 },
                 {
                     "ref": 9,
@@ -72,6 +76,10 @@
                     "text": "Em Teus estatutos me deliciarei e não negligenciarei nenhuma de Tuas palavras."
                 },
                 {
+                    "ref": "",
+                    "text": "ג - Guímel"
+                },
+                {
                     "ref": 17,
                     "text": "Sê Misericordioso com Teu servo, para que eu viva e observe Tua palavra."
                 },
@@ -102,6 +110,10 @@
                 {
                     "ref": 24,
                     "text": "Pois elas constituem meu prazer, e são minhas conselheiras as Tuas prescrições."
+                },
+                {
+                    "ref": "",
+                    "text": "ד - Dálet"
                 },
                 {
                     "ref": 25,
@@ -136,6 +148,10 @@
                     "text": "Seguirei pelo caminho de Teus mandamentos, quando ampliares a compreensão de meu coração."
                 },
                 {
+                    "ref": "",
+                    "text": "ה - He"
+                },
+                {
                     "ref": 33,
                     "text": "Ensina-me, ó Eterno, o caminho dos Teus estatutos, e eu o seguirei com fidelidade."
                 },
@@ -166,6 +182,10 @@
                 {
                     "ref": 40,
                     "text": "Tenho ansiado por Teus preceitos; preserva-me por Tua justiça."
+                },
+                {
+                    "ref": "",
+                    "text": "ו - Vav"
                 },
                 {
                     "ref": 41,
@@ -200,6 +220,10 @@
                     "text": "Estenderei as mãos a Teus mandamentos, que amo, e meditarei sobre Teus estatutos."
                 },
                 {
+                    "ref": "",
+                    "text": "ז - Záyin"
+                },
+                {
                     "ref": 49,
                     "text": "Lembra-Te da palavra que deste a Teu servo, pois através dela me transmitiste esperança."
                 },
@@ -230,6 +254,10 @@
                 {
                     "ref": 56,
                     "text": "Esta alegria é minha porção, por cumprir sempre os Teus preceitos."
+                },
+                {
+                    "ref": "",
+                    "text": "ח - Chet"
                 },
                 {
                     "ref": 57,
@@ -264,6 +292,10 @@
                     "text": "Plena está a terra de Tua misericórdia; ensina-me para que eu cumpra Teus estatutos."
                 },
                 {
+                    "ref": "",
+                    "text": "ט - Tet"
+                },
+                {
                     "ref": 65,
                     "text": "Beneficiaste Teu servo, ó Eterno, conforme Tua promessa."
                 },
@@ -294,6 +326,10 @@
                 {
                     "ref": 72,
                     "text": "A lei que enunciaste me é mais preciosa que grandes porções de ouro e prata."
+                },
+                {
+                    "ref": "",
+                    "text": "י - Iod"
                 },
                 {
                     "ref": 73,
@@ -328,6 +364,10 @@
                     "text": "Mantenha-se íntegro meu coração em Teus estatutos, para que eu não seja envergonhado."
                 },
                 {
+                    "ref": "",
+                    "text": "כ - Caf"
+                },
+                {
                     "ref": 81,
                     "text": "Desfalece a minha alma no anseio por Teu socorro; em Tua palavra deposito minha esperança."
                 },
@@ -358,6 +398,10 @@
                 {
                     "ref": 88,
                     "text": "Preserva minha vida conforme Tua misericórdia e guardarei os pronunciamentos de Tua boca."
+                },
+                {
+                    "ref": "",
+                    "text": "ל - Lamed"
                 },
                 {
                     "ref": 89,
@@ -392,6 +436,10 @@
                     "text": "Há limites para tudo, menos para Tua lei, cuja grandeza é infinita."
                 },
                 {
+                    "ref": "",
+                    "text": "מ - Mem"
+                },
+                {
                     "ref": 97,
                     "text": "Ah! como são por mim amados Teus mandamentos! Eles são permanentemente o tema de minha meditação."
                 },
@@ -422,6 +470,10 @@
                 {
                     "ref": 104,
                     "text": "Por Teus mandamentos alcanço compreensão; por isso repudio todas os caminhos de iniquidade."
+                },
+                {
+                    "ref": "",
+                    "text": "נ - Nun"
                 },
                 {
                     "ref": 105,
@@ -456,6 +508,10 @@
                     "text": "Dediquei-o a guardar com perfeição Teus estatutos, agora e para todo o sempre."
                 },
                 {
+                    "ref": "",
+                    "text": "ס - Samech"
+                },
+                {
                     "ref": 113,
                     "text": "Abomino os homens de coração hesitante, pois à Tua lei dedico totalmente o meu."
                 },
@@ -486,6 +542,10 @@
                 {
                     "ref": 120,
                     "text": "Estremece meu corpo com temor de Ti, e Teus juízos reverencio."
+                },
+                {
+                    "ref": "",
+                    "text": "ע‎ - Áyin"
                 },
                 {
                     "ref": 121,
@@ -520,6 +580,10 @@
                     "text": "Reafirmo a retidão de todos os Teus preceitos e abomino todas as trilhas da falsidade."
                 },
                 {
+                    "ref": "",
+                    "text": "פ - Pe"
+                },
+                {
                     "ref": 129,
                     "text": "Admiráveis são Teus preceitos e por isto os guarda minha alma com integridade."
                 },
@@ -550,6 +614,10 @@
                 {
                     "ref": 136,
                     "text": "Derramam meus olhos torrentes de lágrimas por saber que há homens que não guardam Tua lei."
+                },
+                {
+                    "ref": "",
+                    "text": "צ - Tsádic"
                 },
                 {
                     "ref": 137,
@@ -584,6 +652,10 @@
                     "text": "Eterna é a justiça de Tuas prescrições; faze-me compreendê-las para que proporcionem vida."
                 },
                 {
+                    "ref": "",
+                    "text": "ק - Cuf"
+                },
+                {
                     "ref": 145,
                     "text": "Do fundo do meu coração por Ti clamei; responde-me, ó Eterno, para que eu consiga guardar Teus estatutos."
                 },
@@ -614,6 +686,10 @@
                 {
                     "ref": 152,
                     "text": "De há muito sei que estabeleceste Tuas prescrições, para durarem pela eternidade afora."
+                },
+                {
+                    "ref": "",
+                    "text": "ר - Resh"
                 },
                 {
                     "ref": 153,
@@ -648,6 +724,10 @@
                     "text": "Verdadeira é Tua palavra e eternos Teus juízos."
                 },
                 {
+                    "ref": "",
+                    "text": "ש - Shin"
+                },
+                {
                     "ref": 161,
                     "text": "Sem motivo me perseguiram príncipes, mas meu coração temeu somente afastar-se de Tua palavra."
                 },
@@ -678,6 +758,10 @@
                 {
                     "ref": 168,
                     "text": "Tenho observado Tuas ordens e Teus testemunhos, pois perante Ti trilho meus caminhos."
+                },
+                {
+                    "ref": "",
+                    "text": "ת - Taf"
                 },
                 {
                     "ref": 169,
